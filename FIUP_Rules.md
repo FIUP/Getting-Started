@@ -28,7 +28,7 @@ Post del genere verranno rimossi e possono comportare un ban.
 3. Per le offerte di lavoro il posto ideale e' il gruppo facebook del [PiP](https://www.facebook.com/groups/programmersinpadua/) a meno che non siano proposte rivolte prevalentemente ad universitari. 
 In questo caso usate il tag \[OT - LAVORO\].
 
-4. Per commerciare libri di testo usati, vanno usate le liste indicate nella sezione *Link utili* rispettando il regolamento descritto nella sezione ***Commercio Libri***.
+4. Per commerciare libri di testo usati, va usato il gruppo telegram reperibile anche nella sezione *Link utili* rispettando il regolamento descritto nella sezione ***Commercio Libri***.
 
 5. Sugli spazi cloud non e' possibile caricare alcun testo protetto da diritti d'autore. Il gruppo (e chi lo gestisce) non si assume nessuna responsabilita' eventualmente ce ne fossero.
 
@@ -42,13 +42,26 @@ Salvo diversa ed esplicita indicazione, tutti i contenuti sono da intendersi con
 ***
 
 ## Commercio Libri
-- Per vendere basta modificare la lista, indicando i dati del libro (titolo, edizione e/o ISBN, senza specificare se e' fotocopiato o meno) e un vostro recapito (mail o profilo facebook, meglio non usare numeri di cellulare), potete anche aggiungere un commento alla lista col tag [VENDO].
-- Se cercate un libro da acquistare, commentate sotto la lista col tag [CERCO].
-- Una volta trovato o venduto, rimuovete i relativi commenti e recapiti. In modo da tenere la lista sempre aggiornata e pulita.
-- E' possibile anche vendere / regalare dispense con le stesse modalita' dei libri.
-- Vendere libri (o dispense) interamente fotocopiati, in barba al diritto d'autore, e' illegale, quindi non aggiungeteli alle liste e non cercate di venderli all'interno del gruppo. Al limite affrontate la questione in privato. 
-- ***Gli amministratori non possono e non devono essere ritenuti responsabili per un uso scorretto del servizio o per eventuali violazioni del diritto d'autore da parte degli utenti.***, [Qui un interessante approfondimento sulla questione libri](https://www.facebook.com/notes/fiup/libri-usati-magistrale-in-sviluppo/796167933792241). 
-- **Non fate nuovi post e non eliminate le liste!** 
+
+[Lista Libri di Testo](TBA): Qui trovate le liste dei libri per la Laurea Triennale e Magistrale, potrebbe non essere aggiornata quindi prestate attenzione.
+
+Per **vendere** basta scrivere un messaggio sul gruppo telegram dedicato, [FIUP Commercio Libri](https://telegram.me/FIUPBooks), indicando l'hashtag #vendo assieme alla materia e ai dati del libro (titolo, edizione e/o ISBN, senza specificare se e' fotocopiato o meno) e se volete qualche contatto aggiuntivo.
+ Esempio 
+> #vendo #architettura Architettura e organizzazione dei calcolatori 
+
+Se **cercate** un libro da acquistare, postate un messaggio con l'hashtag #cerco, l'hashtag della materia, ed eventualmente il titolo del libro esempio
+
+>  #cerco #calcolo Quaderno matlab
+
+Una volta trovato o venduto, rimuovete i relativi messaggi. In modo da tenere la lista sempre aggiornata e pulita. Cliccando sugli hashtag vendo / cerco o su quelli delle materie sarà facile ottenere le liste chi vende o cerca.
+
+E' possibile anche vendere / regalare dispense con le stesse modalita' dei libri, usando gli hashtag #dispensa #cedo.
+
+Vendere libri (o dispense) interamente fotocopiati, in barba al diritto d'autore, e' illegale, quindi non cercate di venderli all'interno del gruppo. Al limite affrontate la questione in privato. 
+
+***Gli amministratori non possono e non devono essere ritenuti responsabili per un uso scorretto del servizio o per eventuali violazioni del diritto d'autore da parte degli utenti.***.
+
+Se volete allargare la ricerca potete provare ad usare l'app [UniBook](http://www.unibookapp.com/)
 
 ***
 
@@ -70,8 +83,7 @@ suggerimento per quanto riguarda il nostro corso di studi
 - [Rappresentanti degli studenti](https://bit.ly/RappresentantiInformaticaUniPD)
 
 - **Commercio Libri e Dispense**
-    - [Lista libri usati e dispense triennale](https://bit.ly/LibriUsatiInformaticaTriennaleUniPD)
-    - [Lista libri usati e dispense magistrale](https://bit.ly/LibriUsatiInformaticaMagistraleUniPD)
+    - [Gruppo telegram dedicato]()
 
 - [Cambio password WiFi e Laboratori](https://bit.ly/CambioPasswordInformaticaUniPD)
 

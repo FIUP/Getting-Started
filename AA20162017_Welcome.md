@@ -1,4 +1,4 @@
-# Guida Galattica Computer Science UniPD v. 0.1 A.A. 2016/2017
+# Guida Galattica Computer Science UniPD v. 0.2 A.A. 2016/2017
 
 ## Introduzione
 
@@ -59,12 +59,14 @@ Per ovviare a questo problema, troverete [qua](https://support.google.com/mail/a
 ***
 
 ## Libri
-All'interno del gruppo è possibile scambiare e commerciare dispense e libri usati, facendo uso esclusivo delle apposite liste
+Esiste un gruppo telegram dedicato dove è possibile scambiare e commerciare dispense e libri usati. 
+Va usato esclusivamente il gruppo indicato, negli altri spazi (ad es. facebook) la situazione era ingestibile, perciò ogni messaggio postato altrove verrà eliminato.
 
-- [Lista Libri Laurea Triennale](https://www.facebook.com/notes/fiup/libri-usati-triennale/576379539104416)
-- [Lista Libri Laurea Magistrale](https://www.facebook.com/notes/fiup/libri-usati-magistrale-in-sviluppo/796167933792241)
+- [Regolamento Commercio Libri](https://github.com/FIUP/Getting_Started/blob/master/FIUP_Rules.md#commercio-libri)
+- [Gruppo Telegram Commercio Libri](https://telegram.me/FIUPBooks)
+- [Lista Libri](TBA)
 
-Come tutti sanno, fotocopiare libri è **illegale**, maggiori informazioni e la discussione relativa a questo topic potrete trovarla [qui](https://www.facebook.com/groups/infounipd/permalink/873757185969718).
+Come tutti sanno, fotocopiare e vendere libri fotocopiati è **illegale**. Quindi non fatelo, soprattutto all'interno del gruppo.
 
 ***
 
@@ -75,7 +77,7 @@ Come tutti sanno, fotocopiare libri è **illegale**, maggiori informazioni e la 
   Applicazione di terze parti utile per gestire tutta la carriera universitaria (esami, tasse, chat tra colleghi, ...).
 - [MEGA](https://mega.nz/#mobile)  
   Applicazione ufficiale dell'omonimo sito utile per gestire il proprio account MEGA.
-
+- [UniBook](http://www.unibookapp.com/): Commercio Libri anche con membri esterni esterni al FIUP.
 ***
 
 ## Benefici ed utility gratuite
