@@ -28,7 +28,7 @@ Post del genere verranno rimossi e possono comportare un ban.
 3. Per le offerte di lavoro il posto ideale e' il gruppo facebook del [PiP](https://www.facebook.com/groups/programmersinpadua/) a meno che non siano proposte rivolte prevalentemente ad universitari. 
 In questo caso usate il tag \[OT - LAVORO\].
 
-4. Per commerciare libri di testo usati, va usato il gruppo telegram reperibile anche nella sezione *Link utili* rispettando il regolamento descritto nella sezione ***Commercio Libri***.
+4. Per commerciare libri di testo usati, va usato il gruppo telegram reperibile nella sezione *Link utili* rispettando il regolamento descritto nella sezione ***Commercio Libri***.
 
 5. Sugli spazi cloud non e' possibile caricare alcun testo protetto da diritti d'autore. Il gruppo (e chi lo gestisce) non si assume nessuna responsabilita' eventualmente ce ne fossero.
 

@@ -10,7 +10,7 @@
 
 - ***Perché dovrei aggiungermi?*** Il link pubblico è utile in caso di necessità ma potrebbe non essere aggiornato. Quindi potresti non trovare tutto il materiale, soprattutto quello caricato di recente. Da loggato potrai caricare roba, avrai sempre l’ultima versione disponibile del materiale e potrai usare le app dedicate per quasi tutti i dispositivi presenti sul mercato.
 
-- ***Come faccio ad iscrivermi o a cambiare i miei permessi?*** Devi prima di tutto iscriverti al servizio (attualmente su mega.nz). Successivamente basta che ci lasci la tua mail chiedendo di venire aggiunto, in uno dei modi seguenti:
+- ***Come faccio ad iscrivermi o a cambiare i miei permessi?*** Devi prima di tutto registrarti su [MEGA](https://mega.nz/) con un tuo indirizzo email . Successivamente basta che ci lasci la mail (con la quale ti sei iscritto) chiedendo di venire aggiunto, in uno dei modi seguenti:
 	1. via facebook nel topic apposito sul gruppo [FIUP](https://www.facebook.com/groups/fiupd) o contattando uno dei moderatori del gruppo via PM
 	2. via DM su twitter (@fiupd) 
 	3. mandando una mail all’indirizzo fiup.unipd@gmail.com 
