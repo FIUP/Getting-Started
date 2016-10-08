@@ -75,7 +75,7 @@ Come tutti sanno, fotocopiare e vendere libri fotocopiati è **illegale**. Quind
   Applicazione ufficiale dell'Università di Padova utile per gestire le code in segreteria studenti.
 - Dipartimento di Matematica UNIPD: Applicazione ufficiale del Dipartimento di Matematica, contiene orari di aule lezioni e come contattare docenti e personale
 	1. [App Dipartimento per Android](https://play.google.com/store/apps/details?id=it.unipd.math.dm_unipd)
-	2. [App Dipartimento per iOS(hhttps://itunes.apple.com/it/app/dm-unipd/id1124816650)
+	2. [App Dipartimento per iOS](hhttps://itunes.apple.com/it/app/dm-unipd/id1124816650)
 - [Uniwhere](http://uniwhere.com/app.php)  
   Applicazione di terze parti utile per gestire tutta la carriera universitaria (esami, tasse, chat tra colleghi, ...).
 - [MEGA](https://mega.nz/#mobile)  
