@@ -1,4 +1,4 @@
-# MEGA FAQ v. 3.0 (01-10-2016)
+# MEGA FAQ v. 3.1 (19-10-2016)
 
 [Link pubblico ad accesso rapido](https://mega.nz/#F!2NVSGDqb!Rztk_uAKjZhCJ_NFD-ufDw)
 
@@ -40,7 +40,7 @@
 	
 - ***OK accedo al sito ma dov’è la roba?*** Click sulla cartella con gli omini, sotto l'icona con la nuvola in alto a sinistra
 
-- ***Perché MEGA e non un altro servizio?*** Prima di MEGA, usavamo dropbox. ma i file spesso venivano eliminati per sbaglio (non sempre erano ripristinabili) oppure tentando il ripristino si creavano doppioni in un ciclo elimina/ripristina senza fine. Dropbox offre solo 2 giga di spazio gratuito (salvo promozioni), su MEGA lo spazio gratuito ammonta a 50 GB e le cartelle condivise non erodono il tuo spazio personale. MEGA permette l’encrypting dei dati, un eliminazione degli stessi in due passaggi oltre che tre livelli di privilegi e non necessita di invito per il download dei dati.
+- ***Ogni quanto viene aggiornato il link pubblico?*** Al momento non c'è una tempestica periodica definita. Solitamente prima e dopo le sessioni d'esame, in casi eccezionali anche prima.
 
 - ***Quali sono i livelli di privilegi usati su MEGA?*** Vi sono 4 livelli di privilegi (o permessi), tre dei quali ottenibili da chiunque (tutti, tranne l'accesso completo):
 	1. *Accesso completo all’account*: a disposizione dei soli amministratori del gruppo FIUP
@@ -61,6 +61,14 @@
 	Nel caso qualcuno caricasse file in contrasto con i termini di servizio del sito usato come riferimento o con la normativa in merito della tutela del diritto d’autore deve essere pronto ad assumersene la responsabilità. Il gruppo FIUP, chi detiene i privilegi in Full Access, chi amministra l’account ed eventuali altri utenti con privilegi in upload non sono responsabili e non devono essere ritenuti tali a causa di chi usa il servizio in modo scorretto.
 	Se sei sicuro/a di poter caricare un pdf, un testo o altro materiale fallo liberamente, se hai dubbi, prima di procedere, contatta qualcuno del FIUP. In ogni caso non caricare materiale protetto da diritto d’autore, a meno che non sia tu stesso ad averne i diritti.
 	
+- ***Ho provato ad aggiungere documenti alla cartella però gli vedono solo chi e stato aggiunto e non gli altri pubblicamente come mai?*** E' corretto. Ciò accade perché il link pubblico punta ad una cartella differente rispetto a quella principale dove la gente viene aggiunta.
+
+- ***Perché il link e la cartella non sono sincronizzati? Che assurdità è mai questa?*** La soluzione del punto precedente a prima vista può apparire stupida (e in parte lo è). Ma a causa dei nostri circa 800 contatti MEGA da degli errori bizzarri ai quali neanche il team di sviluppo sa trovare una spiegazione. Per questo la struttura del nostro spazio è:
+	1. "Materiale FIUP" Cartella dove la gente viene aggiunta via mail
+	2. "Materiale FIUP" Cartella separata di backup utilizzata da link pubblico, periodicamente ricreata. 
+	
+- ***Mi sfugge ancora il punto della situazione*** A causa dei molti contatti il link della cartella principale non funziona a dovere (non sincronizza la roba), si rende quindi necessaria la trafila spiegata prima per garantire l'accesso a tutti, anche a chi è senza account. 
+	
 - ***Quali licenze usiamo?*** Tutto il materiale caricato sullo spazio FIUP è da intendersi rilasciato dall’utente che carica il materiale (salvo esplicita diversa volontà) sotto licenze [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/) se si tratta di appunti, esercitazioni, e opere per i quali l’utente che carica dispone dei diritti. Per il codice usiamo la [GPLv3](http://katolaz.homeunix.net/gplv3/)
 
 - ***E’ possibile caricare materiale usando licenze differenti?*** Certo, purché chi carica includa assieme al materiale un file contenente la licenza che desidera usare oppure includa nel materiale stesso dei riferimenti alla licenza stessa. Per incentivare la condivisione evitate licenze chiuse e proprietarie che inibiscano la condivisione.
@@ -70,3 +78,5 @@
 	1. [App Mobile](https://mega.nz/#mobile)
 	2. [Sync Client](https://mega.nz/#sync)
 	3. [Estensioni Browser](https://mega.nz/#plugin)
+	
+- ***Perché MEGA e non un altro servizio?*** Prima di MEGA, usavamo dropbox. ma i file spesso venivano eliminati per sbaglio (non sempre erano ripristinabili) oppure tentando il ripristino si creavano doppioni in un ciclo elimina/ripristina senza fine. Dropbox offre solo 2 giga di spazio gratuito (salvo promozioni), su MEGA lo spazio gratuito ammonta a 50 GB e le cartelle condivise non erodono il tuo spazio personale. MEGA permette l’encrypting dei dati, un eliminazione degli stessi in due passaggi oltre che tre livelli di privilegi e non necessita di invito per il download dei dati.
