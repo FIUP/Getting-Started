@@ -1,6 +1,6 @@
 # MEGA FAQ v. 3.1 (19-10-2016)
 
-[Link pubblico ad accesso rapido](https://mega.nz/#F!2NVSGDqb!Rztk_uAKjZhCJ_NFD-ufDw)
+[Link pubblico ad accesso rapido](https://mega.nz/#F!KY1CjQaC!uqDI5ExRmCjta7Y55Chl3A)
 
 **NOTA:** Il link viene aggiornato periodicamente, tipicamente ad ogni fine sessione d'esame.
 

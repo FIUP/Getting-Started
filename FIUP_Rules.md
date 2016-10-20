@@ -72,7 +72,7 @@ Se volete allargare la ricerca potete provare ad usare l'app [UniBook](http://ww
 - [Documento su Google Drive](https://bit.ly/ConsigliInformaticaUniPD) per consigli, critiche o 
 suggerimento per quanto riguarda il nostro corso di studi
 
-- [Materiale su MEGA](https://mega.nz/#F!2NVSGDqb!Rztk_uAKjZhCJ_NFD-ufDw)
+- [Materiale su MEGA](https://mega.nz/#F!KY1CjQaC!uqDI5ExRmCjta7Y55Chl3A)
 
 - [Orario delle lezioni](https://bit.ly/OrarioInformaticaUniPD)
 
