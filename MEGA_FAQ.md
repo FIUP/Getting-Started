@@ -1,6 +1,6 @@
-# MEGA FAQ v. 3.1 (19-10-2016)
+# MEGA FAQ v. 3.1 (05-02-2017)
 
-[Link pubblico ad accesso rapido](https://mega.nz/#F!KY1CjQaC!uqDI5ExRmCjta7Y55Chl3A)
+[Link pubblico ad accesso rapido](https://mega.nz/#F!eV8CRALI!czTdwpda-jhoHNH1SkTV1Q)
 
 **NOTA:** Il link viene aggiornato periodicamente, tipicamente ad ogni fine sessione d'esame.
 
@@ -49,6 +49,11 @@
 	4. *Read Only (sola lettura)*: solo download. Dato a chi nonostante tutto, causa ancora problemi.
 
 - ***Voglio caricare un file, come faccio?*** Se sei iscritto allo spazio MEGA puoi caricare i file tu stesso, da sito web, semplicemente trascinando i file dentro la cartella dove li vuoi buttare. 
+
+- ***Ho sbagliato qualcosa, come posso rimediare?*** I permessi in upload permettono solo il caricamento, non permettono di rinominare, modificare, spostare o cancellare file. Provare a compiere una di queste azioni, senza avere i permessi in full access, causerà la duplicazione del file o della cartella.
+A tutti capita di sbagliare, se ti accorgi dell'errore segnalalo alla mail del gruppo o ad un amministratore. Puoi anche richiedere i permessi full e in seguito correggere tu stesso.
+
+- ***Ho trovato un doppione, cosa devo fare?*** Se hai i permessi in full access puoi eliminarlo tu stesso tenendo la versione più recente, altrimenti contatta un amministratore.
 
 - ***Posso caricare o scaricare i libri di testo?*** Caricare libri di testo è possibile a patto che rispettino almeno una delle seguenti condizioni:
 	* Sono disponibili in licenza libera
