@@ -53,7 +53,12 @@
 - ***Ho sbagliato qualcosa, come posso rimediare?*** I permessi in upload permettono solo il caricamento, non permettono di rinominare, modificare, spostare o cancellare file. Provare a compiere una di queste azioni, senza avere i permessi in full access, causerà la duplicazione del file o della cartella.
 A tutti capita di sbagliare, se ti accorgi dell'errore segnalalo alla mail del gruppo o ad un amministratore. Puoi anche richiedere i permessi full e in seguito correggere tu stesso.
 
-- ***Ho trovato un doppione, cosa devo fare?*** Se hai i permessi in full access puoi eliminarlo tu stesso tenendo la versione più recente, altrimenti contatta un amministratore.
+- ***Ho sbagliato qualcosa, faccio finta di niente e me frego eheh*** Il sistema di notifiche ci informa sui file duplicati, se notiamo 
+anomalie l'utente verrà per la prima volta contattato, se il problema persiste, i privilegi verranno revocati temporaneamente o per sempre. 
+
+- ***Ho trovato un doppione, cosa devo fare?*** Se hai i permessi in full access puoi eliminarlo tu stesso tenendo la versione più recente, 
+altrimenti contatta un amministratore.
+
 
 - ***Posso caricare o scaricare i libri di testo?*** Caricare libri di testo è possibile a patto che rispettino almeno una delle seguenti condizioni:
 	* Sono disponibili in licenza libera
