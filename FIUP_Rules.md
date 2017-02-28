@@ -43,7 +43,7 @@ Salvo diversa ed esplicita indicazione, tutti i contenuti sono da intendersi con
 
 ## Commercio Libri
 
-[Lista Libri di Testo](TBA): Qui trovate le liste dei libri per la Laurea Triennale e Magistrale, potrebbe non essere aggiornata quindi prestate attenzione.
+[Lista Libri di Testo](https://github.com/FIUP/Getting_Started/blob/master/lista%20libri.md): Qui trovate le liste dei libri per la Laurea Triennale e Magistrale, potrebbe non essere aggiornata quindi prestate attenzione.
 
 Per **vendere** basta scrivere un messaggio sul gruppo telegram dedicato, [FIUP Commercio Libri](https://telegram.me/FIUPBooks), indicando l'hashtag #vendo assieme alla materia e ai dati del libro (titolo, edizione e/o ISBN, senza specificare se e' fotocopiato o meno) e se volete qualche contatto aggiuntivo.
  Esempio 
@@ -72,7 +72,7 @@ Se volete allargare la ricerca potete provare ad usare l'app [UniBook](http://ww
 - [Documento su Google Drive](https://bit.ly/ConsigliInformaticaUniPD) per consigli, critiche o 
 suggerimento per quanto riguarda il nostro corso di studi
 
-- [Materiale su MEGA](https://mega.nz/#F!KY1CjQaC!uqDI5ExRmCjta7Y55Chl3A)
+- [MEGA FAQ](https://github.com/FIUP/Getting_Started/blob/master/MEGA_FAQ.md)
 
 - [Orario delle lezioni](https://bit.ly/OrarioInformaticaUniPD)
 
