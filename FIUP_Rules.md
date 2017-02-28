@@ -104,10 +104,12 @@ suggerimento per quanto riguarda il nostro corso di studi
 
 ## Il FIUP nei social
 Ci trovate su: 
+- [Instagram](https://www.instagram.com/fiupd/)
 - [Twitter](https://twitter.com/fiupd)
 - GitHub [@FIUP](https://github.com/FIUP)
 - Telegram
     - [Canale](https://telegram.me/infofromfiup)
     - [Gruppo](https://telegram.me/FIUPd)
+    - [Gruppo Commercio Libri](https://telegram.me/FIUPd)
 
 [#ComputerScienceUnipd](https://twitter.com/hashtag/ComputerScienceUnipd) 
