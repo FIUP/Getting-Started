@@ -98,7 +98,7 @@ suggerimento per quanto riguarda il nostro corso di studi
     - [Pagina Facebook](https://www.facebook.com/tutorinformaticaunipd)
     - [E-learning ufficiale](https://bit.ly/InfoTutorInformaticaUniPD)
 
-- [Documenti](http://bit.ly/DocumentiInformaticaUniPD)
+- [Documenti](http://bit.ly/DocumentiInformaticaUniPD) (Attualmente protetti da password, per prenderne visione contattare la segreteria didattica in TA)
 
 ***
 
