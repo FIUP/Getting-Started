@@ -1,9 +1,9 @@
-# Guida Galattica Computer Science UniPD v. 0.2 A.A. 2016/2017
+# Guida Galattica Computer Science UniPD v. 0.3
 
 ## Introduzione
 
 Ogni anno è consuetudine aprire un post sul gruppo facebook dedicato ai nuovi arrivati sia per la laurea triennale che per la magistrale (ma non solo).  
-Quest'anno si è pensato di rendere più agevole l'iniziativa tramite un documento in markdown più elegante che rende questa breve guida scaricabile in vari formati, in modo da averla disponibile anche offline e poterla usare su dispositivi mobili (quali smartphone, tablet ed eReader).
+Da un paio d'anni si è pensato di rendere più elegante questa breve guida e far si che sia scaricabile in vari formati, per poterla usare su dispositivi mobili anche offline.
 
 ***
 
@@ -23,9 +23,9 @@ Quest'anno si è pensato di rendere più agevole l'iniziativa tramite un documen
 ## Informazioni generali
 Nella descrizione del nostro [gruppo Facebook](https://www.facebook.com/groups/fiupd/), cliccando su "Altro..." nel pannello a destra è possibile recuperare tutti i link utili ad orari, lista degli esami, lista dei libri usati in vendita, moodle, documenti, occupazione delle aule e rappresentanti degli studenti. E' il posto giusto dove cercare praticamente tutto.  
   
-Per l’accesso al materiale su MEGA, è tutto spiegato sul file allegato a questo documento, MEGA FAQ, che è stato aggiornato per l’occasione.  
+Per l’accesso al materiale su MEGA, è tutto spiegato sul file [MEGA FAQ](https://github.com/FIUP/Getting_Started/blob/master/MEGA_FAQ.md) che è stato aggiornato per l’occasione.  
   
-Per qualsiasi problema o suggerimento contattate un admin [via PM su facebook](https://www.facebook.com/groups/fiupd/admins/), oppure scrivete una mail all'indirizzo fiup.unipd@gmail.com.  
+Per qualsiasi problema o suggerimento contattate un admin [via PM su facebook](https://www.facebook.com/groups/fiupd/admins/), oppure scrivete una mail all'indirizzo [fiup.unipd@gmail.com](mailto:fiup.unipd@gmail.com).  
 
 ***
 
@@ -64,7 +64,7 @@ Va usato esclusivamente il gruppo indicato, negli altri spazi (ad es. facebook) 
 
 - [Regolamento Commercio Libri](https://github.com/FIUP/Getting_Started/blob/master/FIUP_Rules.md#commercio-libri)
 - [Gruppo Telegram Commercio Libri](https://telegram.me/FIUPBooks)
-- [Lista Libri](TBA)
+- [Lista Libri](https://github.com/FIUP/Getting_Started/blob/master/lista%20libri.md)
 
 Come tutti sanno, fotocopiare e vendere libri fotocopiati è **illegale**. Quindi non fatelo, soprattutto all'interno del gruppo.
 
@@ -78,8 +78,6 @@ Come tutti sanno, fotocopiare e vendere libri fotocopiati è **illegale**. Quind
 	2. [App Dipartimento per iOS](https://itunes.apple.com/it/app/dm-unipd/id1124816650)
 - [Uniwhere](http://uniwhere.com/app.php)  
   Applicazione di terze parti utile per gestire tutta la carriera universitaria (esami, tasse, chat tra colleghi, ...).
-- [MEGA](https://mega.nz/#mobile)  
-  Applicazione ufficiale dell'omonimo sito utile per gestire il proprio account MEGA.
 - [UniBook](http://www.unibookapp.com/): Commercio Libri anche con membri esterni esterni al FIUP.
 
 ***
@@ -90,13 +88,14 @@ E' preferibile usare software libero e open source in modo da essere meno legati
 Per completezza d'informazione qui sotto sono elencanti anche software proprietari oltre che ad alcuni servizi forniti gratuitamente dall'UniPD.
 
 ### Servizi
-- Dai laboratori P140 e P36 del Paolotti e dal laboratorio in Torre Archimede ogni mese si hanno 300 stampe, in bianco e nero, gratuite.
+- Dai laboratori P140 e P36 del Paolotti e dal laboratorio in Torre Archimede ogni mese si hanno 300 stampe, in bianco e nero, gratuite. Su MEGA sono presenti degli utili script e guide per stampare dai laboratori.
 - E' possibile abilitare il badge per stampare presso dei punti preposti (tipo le biblioteche). Per far ciò occorre creare un account [qui](http://padova.ricohmyprint.it/RicohmyPrint/Login.aspx).   
   Le istruzioni per usare il servizio possono essere trovate al link indicato sopra.
 
 ### Software
 - Link per ottenere **software Microsoft** (pertanto proprietario) gratuito per uso privato, con l'unica restrizione che non se ne faccia un uso commerciale: [MSDN-AA](http://msdnaa.studenti.math.unipd.it/2011/).
 - Link per ottenere alcune licenze gratuite per la suite **Office 365** di Microsoft: [Office 365](http://www.unipd.it/licenze-office-gratuite?target=Studenti).
+- E' possibile ottenere una licenza gratuita per Matlab [MATLAB | CSIA](https://www.csia.unipd.it/servizi/servizi-utenti-istituzionali/contratti-software-e-licenze/matlab)
 - Iscrivendosi a **GitHub** è possibile accedere ad infiniti repository gratuiti privati e pubblici (utilissimi nei vari corsi di programmazione), oltre che a molte risorse utili per lo sviluppo software. Link per l'iscrizione: [GitHub Student Pack](https://education.github.com/discount_requests/new).
 - Link per ottenere software **JetBrains** in maniera gratuita: [IntelliJ gratis per studenti](https://www.jetbrains.com/student/).  
   Facciamo comunque notare che la versione gratuita *Community* basta per il corso di *Programmazione concorrente e distribuita* del terzo anno, senza contare il fatto che è possibile utilizzare anche l'IDE *Elicpe*.
