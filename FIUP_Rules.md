@@ -23,7 +23,7 @@ I seguenti punti di questa sezione si applicano a tutti gli spazi online del FIU
 
 2. Valgono le solite [regole da forum](http://it.wikipedia.org/wiki/Netiquette) 
 Ognuno si assume la responsabilita' di quanto scritto, non sono tollerati insulti, offese, bestemmie, minacce, pornografia, attacchi personali, etc.
-Post del genere verranno rimossi e possono comportare un ban. Qualsiasi utilizzatore dei servizi del FIUP deve rispettare il [Codice di Condotta](https://github.com/FIUP/Getting_Started/blob/master/CODE_OF_CONDUCT.md)
+Post del genere verranno rimossi e possono comportare un ban. Qualsiasi utilizzatore dei servizi del FIUP deve rispettare il [Codice di Condotta](https://github.com/FIUP/Getting_Started/blob/master/CODE_OF_CONDUCT.md).
 
 3. Per le offerte di lavoro il posto ideale e' il gruppo facebook del [PiP](https://www.facebook.com/groups/programmersinpadua/) a meno che non siano proposte rivolte prevalentemente ad universitari. 
 In questo caso usate il tag \[OT - LAVORO\].

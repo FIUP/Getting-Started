@@ -1,14 +1,13 @@
-# MEGA FAQ v. 3.1 (05-02-2017)
+# MEGA FAQ v. 3.2 (21-07-2017)
 
 [Link pubblico ad accesso rapido](https://mega.nz/#F!mI0h3DLa!CcefSi3JNMdjhD8v_hZmOA)
 
 **NOTA:** Il link viene aggiornato periodicamente, tipicamente ad ogni fine sessione d'esame.
 
-- ***A che serve questo spazio cloud?*** Serve a condividere appunti, esami, esercizi ed idee tra studenti iscritti ai corsi di informatica delle lauree triennali e magistrali presso la Scuola di Scienze dell’Università degli Studi di Padova. Non è in alcun modo collegato con l’università ma è uno spazio gestito da studenti, per studenti. Lo spazio FIUP è uno spazio sociale ed è un servizio gratuito.
-
+- ***A che serve questo spazio cloud?*** Serve a condividere appunti, esami, esercizi ed idee tra studenti iscritti ai corsi di informatica delle lauree triennali e magistrali presso la Scuola di Scienze dell’Università degli Studi di Padova. Non è in alcun modo collegato con l’università ma è uno spazio gestito da studenti, per studenti. Lo spazio FIUP è uno spazio sociale ed è un servizio gratuito. Non va utilizzato per condividere codice, per quello c'è l'organizzazione su Github.
 - ***Che vuol dire spazio sociale?*** Si tratta di un servizio completamente gratuito gestito da volontari e aperto a tutti. Chiunque può contribuire caricando materiale, in modo che questo spazio possa restare utile e costantemente aggiornato. Non siate timidi, condividete risorse non presenti che ritenete possano interessare tutti, come  appunti, esercizi, esami e quant'altro.
 
-- ***Perché dovrei aggiungermi?*** Il link pubblico è utile in caso di necessità ma potrebbe non essere aggiornato. Quindi potresti non trovare tutto il materiale, soprattutto quello caricato di recente. Da loggato potrai caricare roba, avrai sempre l’ultima versione disponibile del materiale e potrai usare le app dedicate per quasi tutti i dispositivi presenti sul mercato.
+- ***Perché dovrei aggiungermi?*** Il link pubblico è utile in caso di necessità ma potrebbe non essere aggiornato. Quindi potresti non trovare tutto il materiale, soprattutto quello caricato di recente. Da loggato potrai caricare roba e avrai sempre l’ultima versione disponibile del materiale.
 
 - ***Come faccio ad iscrivermi o a cambiare i miei permessi?*** Devi prima di tutto registrarti su [MEGA](https://mega.nz/) con un tuo indirizzo email . Successivamente basta che ci lasci la mail (con la quale ti sei iscritto) chiedendo di venire aggiunto, in uno dei modi seguenti:
 	1. via facebook nel topic apposito sul gruppo [FIUP](https://www.facebook.com/groups/fiupd) o contattando uno dei moderatori del gruppo via PM
@@ -40,7 +39,7 @@
 	
 - ***OK accedo al sito ma dov’è la roba?*** Click sulla cartella con gli omini, sotto l'icona con la nuvola in alto a sinistra
 
-- ***Ogni quanto viene aggiornato il link pubblico?*** Al momento non c'è una tempestica periodica definita. Solitamente prima e dopo le sessioni d'esame, in casi eccezionali anche prima.
+- ***Ogni quanto viene aggiornato il link pubblico?*** Al momento non c'è una tempestica periodica definita. Solitamente prima e dopo le sessioni d'esame, in casi eccezionali anche prima. Il link pubblico verrà deprecato in un prossimo futuro.
 
 - ***Quali sono i livelli di privilegi usati su MEGA?*** Vi sono 4 livelli di privilegi (o permessi), tre dei quali ottenibili da chiunque (tutti, tranne l'accesso completo):
 	1. *Accesso completo all’account*: a disposizione dei soli amministratori del gruppo FIUP
@@ -83,10 +82,6 @@ altrimenti contatta un amministratore.
 
 - ***E’ possibile caricare materiale usando licenze differenti?*** Certo, purché chi carica includa assieme al materiale un file contenente la licenza che desidera usare oppure includa nel materiale stesso dei riferimenti alla licenza stessa. Per incentivare la condivisione evitate licenze chiuse e proprietarie che inibiscano la condivisione.
 
-- ***Esistono dei client per MEGA?*** Si, esistono dei sync client per Linux, Mac e Windows. Al momento però non permettono la gestione di cartelle condivise tra utenti. Esistono anche delle app per Android, iOS, Windows Phone e Blackberry e delle estensioni per i browser pensate per migliorare sicurezza e performance. Puoi trovare tutto a questi link:
-
-	1. [App Mobile](https://mega.nz/#mobile)
-	2. [Sync Client](https://mega.nz/#sync)
-	3. [Estensioni Browser](https://mega.nz/#plugin)
+- ***Esistono dei client per MEGA?*** Si, esistono ma non sono molto affidabili, ne sconsigliamo pertanto l'uso.
 	
-- ***Perché MEGA e non un altro servizio?*** Prima di MEGA, usavamo dropbox. ma i file spesso venivano eliminati per sbaglio (non sempre erano ripristinabili) oppure tentando il ripristino si creavano doppioni in un ciclo elimina/ripristina senza fine. Dropbox offre solo 2 giga di spazio gratuito (salvo promozioni), su MEGA lo spazio gratuito ammonta a 50 GB e le cartelle condivise non erodono il tuo spazio personale. MEGA permette l’encrypting dei dati, un eliminazione degli stessi in due passaggi oltre che tre livelli di privilegi e non necessita di invito per il download dei dati.
+- ***Perché MEGA e non un altro servizio?*** Prima di MEGA, usavamo dropbox. ma i file spesso venivano eliminati per sbaglio (non sempre erano ripristinabili) oppure tentando il ripristino si creavano doppioni in un ciclo elimina/ripristina senza fine. Dropbox offre solo 2 giga di spazio gratuito (salvo promozioni), su MEGA lo spazio gratuito ammonta a 50 GB e le cartelle condivise non erodono il tuo spazio personale. MEGA permette l’encrypting dei dati, un eliminazione degli stessi in due passaggi oltre che tre livelli di privilegi e non necessita di invito per il download dei dati. MEGA inoltre non è pensato per la gestione del codice, per il codice è più adatto un sistema di versionamento come git.
