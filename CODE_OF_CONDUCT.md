@@ -1,4 +1,5 @@
-![UK Flag](https://github.com/FIUP/Getting_Started/res/img/UK_flag_circle.png)
+![UK Flag](https://github.com/FIUP/Getting_Started/blob/master/res/img/UK_flag_circle.png)
+
 
 # Contributor Covenant Code of Conduct
 
@@ -52,7 +53,7 @@ This Code of Conduct is adapted from the [Contributor Covenant][homepage], versi
 
 ---
 
-![Italian Flag](https://github.com/FIUP/Getting_Started/res/img/italy_flag_circle.png) 
+![Italian Flag](https://github.com/FIUP/Getting_Started/blob/master/res/img/italy_flag_circle.png) 
 # Contributor Covenant Code of Conduct
 
 ## Il nostro impegno
