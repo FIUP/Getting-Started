@@ -95,7 +95,7 @@ Per completezza d'informazione qui sotto sono elencanti anche software proprieta
 ### Software
 - Link per ottenere **software Microsoft** (pertanto proprietario) gratuito per uso privato, con l'unica restrizione che non se ne faccia un uso commerciale: [MSDN-AA](http://msdnaa.studenti.math.unipd.it/2011/).
 - Link per ottenere alcune licenze gratuite per la suite **Office 365** di Microsoft: [Office 365](http://www.unipd.it/licenze-office-gratuite?target=Studenti).
-- E' possibile ottenere una licenza gratuita per Matlab [MATLAB | CSIA](https://www.csia.unipd.it/servizi/servizi-utenti-istituzionali/contratti-software-e-licenze/matlab)
+- E' possibile ottenere una licenza gratuita per **Matlab** [MATLAB | CSIA](https://www.csia.unipd.it/servizi/servizi-utenti-istituzionali/contratti-software-e-licenze/matlab)
 - Iscrivendosi a **GitHub** è possibile accedere ad infiniti repository gratuiti privati e pubblici (utilissimi nei vari corsi di programmazione), oltre che a molte risorse utili per lo sviluppo software. Link per l'iscrizione: [GitHub Student Pack](https://education.github.com/discount_requests/new).
 - Link per ottenere software **JetBrains** in maniera gratuita: [IntelliJ gratis per studenti](https://www.jetbrains.com/student/).  
   Facciamo comunque notare che la versione gratuita *Community* basta per il corso di *Programmazione concorrente e distribuita* del terzo anno, senza contare il fatto che è possibile utilizzare anche l'IDE *Elicpe*.
@@ -128,17 +128,16 @@ Potete trovare il FIUP anche su GitHub dove da poco è stata creata l’organizz
 ## F.A.Q
 1.	**Mi sono appena iscritto al primo/secondo/terzo anno di laurea. Devo acquistare subito i libri? Se sì, qualcuno li vende usati?**
 No, non è necessario acquistare subito i libri, anche perché magari alcuni sono opzionali e/o solamente consigliati, quindi ti consigliamo di aspettare almeno la prima settimana e chiedere delucidazioni ai professori dei vari corsi se non dovessero dire nulla in merito.  
-In ogni caso sì, c’è chi vende i libri usati per molti dei corsi dei tre anni della Laurea Triennale. Puoi trovare tutte le info che desideri qua: http://on.fb.me/1isb86n
-Se invece sei iscritto alla Magistrale, ecco a te: http://on.fb.me/1O8BEO5
-Nelle liste indicate è possibile anche vendere e scambiare dispense, purché si rispetti sempre il diritto d'autore.
+In ogni caso sì, c’è chi vende i libri usati per molti dei corsi in questo gruppo [Gruppo Telegram Commercio Libri](https://telegram.me/FIUPBooks).
+Nel gruppo indicato è possibile anche vendere e scambiare dispense e appunti, purché si rispetti sempre il diritto d'autore.
 
 2.	**Esiste un luogo dove posso vedere gli appelli degli anni precedenti, gli appunti o qualsiasi altra cosa che mi possa tornare utile per studiare?**  
-Certamente, li puoi trovare su Mega dove sono presenti il 90% degli appelli di qualsiasi corso degli anni precedenti (a volte anche con relative soluzioni), assieme ad esercizi, riassunti e altri file utili.  
+Certamente, li puoi trovare su MEGA dove sono presenti il 90% degli appelli di qualsiasi corso degli anni precedenti (a volte anche con relative soluzioni), assieme ad esercizi, riassunti e altri file utili. Il codice degli esercizi di programmazione lo trovi esclusivamente su Github, non caricarlo in MEGA in quanto verrà eliminato. 
 
-3.	**Che bella cosa! Come posso accedere a questo “Mega”?**  
-Per far sì che tu possa vedere la nostra cartella condivisa è sufficiente fare un post con il tag [MEGA] nel gruppo Facebook, chiedendo di essere aggiunto e lasciando la tua e-mail con la quale ti sarai precedentemente iscritto a Mega. Se invece non vuoi rendere pubblica il tuo indirizzo e-mail puoi contattare privatamente un amministratore del FIUP (li puoi trovare tutti qua: http://on.fb.me/1XC4dHW ) e chiedere di essere aggiunto.  
+3.	**Che bella cosa! Come posso accedere a questo “MEGA”?**  
+Per far sì che tu possa vedere la nostra cartella condivisa è sufficiente fare un post con il tag [MEGA] nel gruppo Facebook o telegram, chiedendo di essere aggiunto e lasciando la tua e-mail con la quale ti sarai precedentemente iscritto a Mega. Se invece non vuoi rendere pubblica il tuo indirizzo e-mail puoi contattare privatamente un amministratore del FIUP (li puoi trovare tutti qua: http://on.fb.me/1XC4dHW ) e chiedere di essere aggiunto.  
 Fatto questo un admin provvederà al più presto ad aggiungerti e potrai vedere il FIUP (e la sua cartella condivisa) tra i contatti di Mega!  
-L'iscrizione è necessaria per condividere materiale, per il solo accesso esiste un link pubblico aggiornato periodicamente, lo puoi trovare nel regolamento del gruppo.
+L'iscrizione è necessaria per condividere materiale.
 
 4.	**Oddio ho un problema con Mega e non so cosa fare!**  
 Non preoccuparti, mantieni il sangue freddo e contatta uno degli admin del gruppo (che trovi qua: http://on.fb.me/1XC4dHW) spiegando il problema. Sapranno aiutarti nel minor tempo possibile!  
@@ -178,11 +177,11 @@ I tutor sono studenti che si mettono a disposizione per determinati orari durant
 
 12.	**Questa università è social?**  
 Certamente, ecco tutti i link utili:  
-    -	Pagina Facebook ufficiale dell’Università di Padova: http://on.fb.me/1g5vsJ3
-    -	Account Twitter ufficiale dell’Università di Padova: http://bit.ly/1NXNyLB
+    - Pagina Facebook ufficiale dell’Università di Padova: http://on.fb.me/1g5vsJ3
+    - Account Twitter ufficiale dell’Università di Padova: http://bit.ly/1NXNyLB
     
-    -	Account Twitter del FIUP: http://bit.ly/1EO63iE 
-    -	Account GitHub ufficiale del FIUP: http://bit.ly/1XC9a3r 
+    - Account Twitter del FIUP: http://bit.ly/1EO63iE 
+    - Account GitHub ufficiale del FIUP: http://bit.ly/1XC9a3r 
     - Canale Telegram del FIUP: https://telegram.me/infofromfiup
     - Gruppo Telegram del FIUP: https://telegram.me/FIUPd
 
