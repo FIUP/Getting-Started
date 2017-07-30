@@ -9,11 +9,11 @@ Hai dubbi o domande? Ti serve aiuto? Dai un'occhiata ai nostri gruppi social: ht
 ### Prerequisiti
 
 * [ ] Metti una X tra le parentesi quadre in questa linea quando hai fatto ciò che segue:
-    * Controlla che la tua issue non sia già presente: https://github.com/issues?utf8=%E2%9C%93&q=is%3Aissue+user%3AFIUP
+    * [Controlla che la tua issue non sia già presente](https://github.com/issues?utf8=%E2%9C%93&q=is%3Aissue+user%3AFIUP)
 
 ### Descrizione
 
-[Descrizione del problema]
+[Descrizione del problema / miglioramento]
 
 ### Passi per riprodurlo
 
@@ -33,4 +33,4 @@ Campo utilizzato solo nel caso in cui si riferiscano bug su software (ad es. nei
 
 ### Informazioni aggiuntive
 
-Qualsiasi informazione aggiuntiva, dato o configurazione utile per riprodurre il problema (ad es. il sistema operativo usato).
+Qualsiasi informazione aggiuntiva, dato o configurazione utile per riprodurre il problema o agevolare l'implementazione del suggerimento (ad es. il sistema operativo usato).
