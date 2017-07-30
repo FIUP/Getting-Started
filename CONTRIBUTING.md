@@ -13,7 +13,9 @@ Se avete suggerimenti su come migliorare queste norme, sentitevi liberi di propo
 #### Indice dei contenuti
 
 [FIUP](#fiup)
+
 [Codice di Condotta](#codice-di-condotta)
+
 [Non voglio leggere tutta questa roba, ho solo una domanda!!!](#non-voglio-leggere-tutta-questa-roba-ho-solo-una-domanda)
 
 [Come posso contribuire?](#come-posso-contribuire)
