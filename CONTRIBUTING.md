@@ -70,10 +70,9 @@ controlla [questa lista](#prima-di-inviare-una-segnalazione-sui-bug) in quanto p
 
 #### Prima di inviare una segnalazione sui bug
 
-* [Fai una ricerca tra le issue](https://github.com/issues?utf8=%E2%9C%93&q=is%3Aissue+user%3AFIUP) in modo da accertarti che il problema non sia già stato segnalato. Se lo è, aggiungi un commento alla issue esistente al posto di aprirne una nuova. 
+* ***Fai una ricerca tra le issue*** in modo da accertarti che il problema non sia già stato segnalato. Se lo è, aggiungi un commento alla issue esistente al posto di aprirne una nuova. 
 
 Puoi segnalare bug utilizzando le [Issue di GitHub](https://guides.github.com/features/issues/) 
-
 #### Come invio una buona segnalazione?
 
 I bug sono tracciati usando le [issue di GitHub](https://guides.github.com/features/issues/). Dopo aver individuato un problema, apri una issue nel relativo repository, fornendo le seguenti informazioni.
@@ -109,7 +108,7 @@ Prima di creare suggerimenti, per favore controlla [questa lista](#prima-di-invi
 
 #### Prima di inviare un suggerimento 
 
-* [Fai una ricerca tra le issue](https://github.com/issues?utf8=%E2%9C%93&q=is%3Aissue+user%3AFIUP) in modo da accertarti che il suggerimento non sia già stato posto. Se lo è, aggiungi un commento alla issue esistente al posto di aprirne una nuova. 
+* ***Fai una ricerca tra le issue*** in modo da accertarti che il suggerimento non sia già stato posto. Se lo è, aggiungi un commento alla issue esistente al posto di aprirne una nuova. 
 #### Come posso suggerire una miglioria?
 
 I suggerimenti per migliorare sono tracciati usando le [issues di GitHub](https://guides.github.com/features/issues/). Quando hai le idee chiare sulla modifica da proporre, crea una issue sul repository adatto (per inviare suggerimenti generali usa [questo repository](https://github.com/FIUP/Getting_Started/) ) e fornisci le seguenti informazioni:
@@ -121,9 +120,30 @@ I suggerimenti per migliorare sono tracciati usando le [issues di GitHub](https:
 * **Spiega perché questa miglioria sarebbe utile** per la maggior parte degli utenti.
 ### Il tuo primo contributo
 
+Non sai dove iniziare a contribuire al FIUP? 
+
+Unsure where to begin contributing to Atom? Potresti iniziare dalle issue etichettate come `beginner` e/o `help-wanted`:
+
+* [Beginner issues][beginner] - issue che riguardano problemi semplici che richiedono un paio di linee di codice e un paio di test.
+* [Help wanted issues][help-wanted] - issues un po' più impegnative delle `beginner`.
+
+Entrambe le liste di issue sono ordinate in base al numero totale di commenti. Anche se non è perfetto, il numero di commenti è un misuratore ragionevole dell'impatto che una issue potrà avere.
 ### Pull Requests
 
+* Compila il [template](PULL_REQUEST_TEMPLATE.md)
+* Non includere i numeri delle issue nel titolo della PR
+* Includi screenshots e/o  GIF animate nella tua PR se lo ritieni utile.
+* Documenta il nuovo codice usando gli [Stili della documentazione](#stili-della-documentazione
+)
 ### Altri tipi di contributo
+
+Per contribuire al FIUP non è necessario essere programmatori esperti. Puoi contribuire in tanti altri modi ad esempio:
+
+* Aiutando gli utenti, rispondendo ai loro dubbi o domande sui [canali social](https://github.com/FIUP/Getting_Started/blob/master/FIUP_Rules.md#il-fiup-nei-social) in particolare su telegram e facebook.
+* Partecipare alle attività offline del FIUP
+* Proporre idee e suggerimenti all'indirizzo [fiup.unipd@gmail.com](mailto:fiup.unipd@gmail.com) o secondo le modalità indicate nella sezione [Suggerire miglioramenti](#suggerire-miglioramenti).
+* Candidarsi a manutentore dei repository, o per avere un ruolo attivo nella struttura del FIUP, compilando [questo form](http://fiup.space/collaboration/) o via mail all'indirizzo [fiup.unipd@gmail.com](mailto:fiup.unipd@gmail.com).
+ 
 ## Stili
 
 ### Messaggi Git Commit
