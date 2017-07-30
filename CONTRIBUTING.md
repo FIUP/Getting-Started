@@ -75,7 +75,7 @@ I bug sono tracciati usando le [issue di GitHub](https://guides.github.com/featu
 
 Esponi il problema e includi il maggior numero di dettagli in modo da aiutare i manutentori a riprodurlo.
 
-* **Usa un titolo chiaro e descrittivo** per la issue, identificando il problam.
+* **Usa un titolo chiaro e descrittivo** per la issue, identificando il problema.
 * **Descrivi precisamente i passi per riprodurre il problema** con quanti più dettagli possibile. 
 Quando spieghi i passi, **non dire solo cosa hai fatto, ma spiega come lo hai fatto**. Per esempio, se hai compilato un sorgente LaTeX, spiega se hai usato uno script o un IDE.
 
