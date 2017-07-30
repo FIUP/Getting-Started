@@ -51,6 +51,8 @@ Per favore segnalate comportamenti in violazione con il Codice di Condotta all'i
 Per qualsiasi dubbio o domanda chiedi nel [gruppo telegram del FIUP](https://t.me/FIUPd) dove la comunità è più attiva e saprà esserti d'aiuto.
 
 ## Come posso contribuire?
+
+Puoi contribuire ai repository su GitHub, alle attività online e offline del FIUP o semplicemente aiutando altri utenti e caricando i tuoi appunti. Per ulteriori informazioni consulta la sezione [Altri tipi di contributo](#altri-tipi-di-contributo)
 ### Lavorare sui repository
 
 Quando intendi collaborare ad un progetto presente nell'organizzazione FIUP in Github, il modo migliore è:
@@ -140,10 +142,11 @@ Entrambe le liste di issue sono ordinate in base al numero totale di commenti. A
 Per contribuire al FIUP non è necessario essere programmatori esperti. Puoi contribuire in tanti altri modi ad esempio:
 
 * Aiutando gli utenti, rispondendo ai loro dubbi o domande sui [canali social](https://github.com/FIUP/Getting_Started/blob/master/FIUP_Rules.md#il-fiup-nei-social) in particolare su telegram e facebook.
+* Caricando appunti e altri file negli spazi cloud del FIUP. [Rispettando le regole definite qui](#MEGA_FAQ.md)
 * Partecipare alle attività offline del FIUP
 * Proporre idee e suggerimenti all'indirizzo [fiup.unipd@gmail.com](mailto:fiup.unipd@gmail.com) o secondo le modalità indicate nella sezione [Suggerire miglioramenti](#suggerire-miglioramenti).
 * Candidarsi a manutentore dei repository, o per avere un ruolo attivo nella struttura del FIUP, compilando [questo form](http://fiup.space/collaboration/) o via mail all'indirizzo [fiup.unipd@gmail.com](mailto:fiup.unipd@gmail.com).
- 
+
 ## Stili
 
 ### Messaggi Git Commit
