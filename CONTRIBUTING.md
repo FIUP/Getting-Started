@@ -12,9 +12,9 @@ Se avete suggerimenti su come migliorare queste norme, sentitevi liberi di propo
 
 #### Indice dei contenuti
 
-[Cosa devo sapere prima di iniziare?](#cosa-devo-sapere-prima-di-iniziare)
-  * [Codice di Condotta](#codice-di-condotta)
-  * [FIUP](#fiup)
+[FIUP](#fiup)
+[Codice di Condotta](#codice-di-condotta)
+[Non voglio leggere tutta questa roba, ho solo una domanda!!!](#non-voglio-leggere-tutta-questa-roba-ho-solo-una-domanda)
 
 [Come posso contribuire?](#come-posso-contribuire)
   * [Lavorare sui Repository](#lavorare-sui-repository)
@@ -32,18 +32,21 @@ Se avete suggerimenti su come migliorare queste norme, sentitevi liberi di propo
 [Note Aggiuntive](#note-aggiuntive)
   * [Etichette per le Issue e Pull Request](#etichette-per-le-issue-e-pull-request)
 
-## Cosa devo sapere prima di iniziare?
-
-### Codice di Condotta
-Tutti i progetti e gli spazi FIUP adottano lo stesso [Codice di Condotta - Patto del contributore](https://github.com/FIUP/Getting_Started/blob/master/CODE_OF_CONDUCT.md).
-Partecipando al FIUP, dichiari implicitamente di accettare e aderire a questo Codice di Condotta.
-Per favore segnalate comportamenti in violazione con il Codice di Condotta all'indirizzo [fiup.unipd@gmail.com](mailto:fiup.unipd@gmail.com).
-
-### FIUP 
+## FIUP 
 
 Il FIUP (Futuri Informatici dell'Universita' di Padova) è un'organizzazione senza scopo di lucro aperta a studenti, docenti e personale dei corsi di Laurea Triennale e Magistrale in Informatica
 presso la Scuola di Scienze dell'[Universita' degli Studi di Padova](https://www.unipd.it/). 
 Al momento è solo un'organizzazione gestita prevalentemente da studenti volontari, non è un'associazione ufficialmente riconosciuta dall'università.
+
+## Codice di Condotta
+Tutti i progetti e gli spazi FIUP adottano lo stesso [Codice di Condotta - Patto del contributore](https://github.com/FIUP/Getting_Started/blob/master/CODE_OF_CONDUCT.md).
+Partecipando al FIUP, dichiari implicitamente di accettare e aderire a questo Codice di Condotta.
+Per favore segnalate comportamenti in violazione con il Codice di Condotta all'indirizzo [fiup.unipd@gmail.com](mailto:fiup.unipd@gmail.com).
+## Non voglio leggere tutta questa roba, ho solo una domanda!!!
+
+> **Nota:** __Per favore non aprire una issue se hai solo una domanda.__ Puoi trovare più facilmente una risposta usando le risorse elencate in seguito.
+
+Per qualsiasi dubbio o domanda chiedi nel [gruppo telegram del FIUP](https://t.me/FIUPd) dove la comunità è più attiva e saprà esserti d'aiuto.
 
 ## Come posso contribuire?
 ### Lavorare sui repository
@@ -61,7 +64,7 @@ Se la Pull Request verrà accettata da un manutentore, il tutto andrà a buon fi
 Seguire queste linee guida aiuta i manutentori e la comunità a capire più facilmente il problema.
 
 Prima di inviare una segnalazione sui bug, per favore
-controlla [questa lista](#prima-di-inviare-una-segnalazione-sui-bug) in quanto potresti scoprire che non necessiti di segnarlo. Mentre stai creando una segnalazione, per favore [includi quanti più dettagli possibile](#come-invio-una-buona-segnalazione). Se vuoi, puoi usare [questo template](#template-per-inviare-segnalazioni-sui-bug) per strutturare le informazioni.
+controlla [questa lista](#prima-di-inviare-una-segnalazione-sui-bug) in quanto potresti scoprire che non necessiti di segnarlo. Mentre stai creando una segnalazione, per favore [includi quanti più dettagli possibile](#come-invio-una-buona-segnalazione). Se vuoi, puoi usare [questo template](ISSUE_TEMPLATE.md) per strutturare le informazioni.
 
 #### Prima di inviare una segnalazione sui bug
 
@@ -96,9 +99,24 @@ Includi dettagli sul tuo ambiente e sulla tua configurazione:
 * **Stai usando una macchina virtuale?** Se si, che software usi e che sistemi operativi usi sia per l'host che per il guest?
 
 * **Quali altri software stai usando inerentemente il problema?** Spiega che compilatore usi, e le dipendenze adottate. 
+## Suggerire miglioramenti
 
-### Suggerire miglioramenti
+Questa sezione ti guiderà su come inviare suggerimenti per migliorare il FIUP e i progetti ad esso correlati. Seguire queste linee guida aiuta i manutentori e la comunità a capire il tuo suggerimento :pencil: e a collegarlo ad altri già esistenti :mag_right: .
 
+Prima di creare suggerimenti, per favore controlla [questa lista](#prima-di-inviare-un-suggerimento) in quanto potresti scoprire di non aver bisogno di crearne uno nuovo. Quando suggerisci una miglioria, per favore [includi quanti più dettagli possibile](#come-posso-suggerire-una-miglioria). Per agevolarti abbiamo creato [un template](ISSUE_TEMPLATE.md).
+
+#### Prima di inviare un suggerimento 
+
+* [Fai una ricerca tra le issue](https://github.com/issues?utf8=%E2%9C%93&q=is%3Aissue+user%3AFIUP) in modo da accertarti che il suggerimento non sia già stato posto. Se lo è, aggiungi un commento alla issue esistente al posto di aprirne una nuova. 
+#### Come posso suggerire una miglioria?
+
+I suggerimenti per migliorare sono tracciati usando le [issues di GitHub](https://guides.github.com/features/issues/). Quando hai le idee chiare sulla modifica da proporre, crea una issue sul repository adatto (per inviare suggerimenti generali usa [questo repository](https://github.com/FIUP/Getting_Started/) ) e fornisci le seguenti informazioni:
+
+* **Usa un titolo chiaro e descrittivo** per la issue che identifica il suggerimento.
+* **Fornisci una descrizione passo passo della miglioria** con quanti più dettagli possibile.
+* **Fornisci esempi concreti a dimostrazione dei passi**. se devi includere codice in questi esempi, usa [i blocchi di codice in Markdown](https://help.github.com/articles/markdown-basics/#multiple-lines).
+* **Descrivi il comportamento attuale** e **spiega quale comportamento vorresti** e perché.
+* **Spiega perché questa miglioria sarebbe utile** per la maggior parte degli utenti.
 ### Il tuo primo contributo
 
 ### Pull Requests
