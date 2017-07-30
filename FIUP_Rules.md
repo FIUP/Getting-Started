@@ -23,19 +23,19 @@ I seguenti punti di questa sezione si applicano a tutti gli spazi online del FIU
 
 2. Valgono le solite [regole da forum](http://it.wikipedia.org/wiki/Netiquette) 
 Ognuno si assume la responsabilita' di quanto scritto, non sono tollerati insulti, offese, bestemmie, minacce, pornografia, attacchi personali, etc.
-Post del genere verranno rimossi e possono comportare un ban. Qualsiasi utilizzatore dei servizi del FIUP deve rispettare il [Codice di Condotta](https://github.com/FIUP/Getting_Started/blob/master/CODE_OF_CONDUCT.md).
+Post del genere verranno rimossi e possono comportare un ban. Qualsiasi utente del FIUP è tenuto a rispettare il [Codice di Condotta](https://github.com/FIUP/Getting_Started/blob/master/CODE_OF_CONDUCT.md).
 
 3. Per le offerte di lavoro il posto ideale e' il gruppo facebook del [PiP](https://www.facebook.com/groups/programmersinpadua/) a meno che non siano proposte rivolte prevalentemente ad universitari. 
-In questo caso usate il tag \[OT - LAVORO\].
+In questo caso usate i tag \[OT] o [LAVORO]\.
 
-4. Per commerciare libri di testo usati, va usato il gruppo telegram reperibile nella sezione *Link utili* rispettando il regolamento descritto nella sezione ***Commercio Libri***.
+4. Per commerciare libri di testo usati, va usato il [gruppo telegram apposito](https://telegram.me/FIUPBooks) rispettando il regolamento descritto nella sezione [Commercio Libri](#commercio-libri).
 
 5. Sugli spazi cloud non e' possibile caricare alcun testo protetto da diritti d'autore. Il gruppo (e chi lo gestisce) non si assume nessuna responsabilita' eventualmente ce ne fossero.
 
 6. E' preferibile caricare e condividere materiale usando formati aperti e standard. 
 Salvo diversa ed esplicita indicazione, tutti i contenuti sono da intendersi condivisi con licenze [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) e [GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html) 
 
-7. Per suggerimenti,problemi o per mettersi in gioco, contattate un admin via Messaggio Privato su [facebook](https://facebook.com/groups/fiupd/admins) o via [mail](fiup.unipd@gmail.com).
+7. Per suggerimenti,problemi o per mettersi in gioco, contattate un [admin](https://facebook.com/groups/fiupd/admins) o inviate una [mail](fiup.unipd@gmail.com).
 
 > *L'amicizia e' d'aiuto ai giovani perche' non commettano errori* > - Aristotele, Etica Nicomachea
 
