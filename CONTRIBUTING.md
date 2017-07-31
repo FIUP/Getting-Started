@@ -142,8 +142,8 @@ Entrambe le liste di issue sono ordinate in base al numero totale di commenti. A
 Per contribuire al FIUP non è necessario essere programmatori esperti. Puoi contribuire in tanti altri modi ad esempio:
 
 * Aiutando gli utenti, rispondendo ai loro dubbi o domande sui [canali social](https://github.com/FIUP/Getting_Started/blob/master/FIUP_Rules.md#il-fiup-nei-social) in particolare su telegram e facebook.
-* Caricando appunti e altri file negli spazi cloud del FIUP. [Rispettando le regole definite qui](https://github.com/FIUP/Getting_Started/blob/master/MEGA_FAQ.md)
-* Partecipare alle attività offline del FIUP
+* Caricando appunti e altri file negli spazi cloud del FIUP, [rispettando le regole definite qui].(https://github.com/FIUP/Getting_Started/blob/master/MEGA_FAQ.md)
+* Partecipare alle attività offline del FIUP.
 * Proporre idee e suggerimenti all'indirizzo [fiup.unipd@gmail.com](mailto:fiup.unipd@gmail.com) o secondo le modalità indicate nella sezione [Suggerire miglioramenti](#suggerire-miglioramenti).
 * Candidarsi a manutentore dei repository, o per avere un ruolo attivo nella struttura del FIUP, compilando [questo form](http://fiup.space/collaboration/) o via mail all'indirizzo [fiup.unipd@gmail.com](mailto:fiup.unipd@gmail.com).
 
@@ -151,9 +151,23 @@ Per contribuire al FIUP non è necessario essere programmatori esperti. Puoi con
 
 ### Messaggi Git Commit
 
+* Usa messaggi chiari e descrittivi delle modifiche apportate ("Fatti cambiamenti vari" non è un buon messaggio)
+* Usa preferibilmente la lingua inglese
+* Scrivi i messaggi usando il presente e l'imperativo  ("Add feature" not "Added feature") ("Move cursor to..." not "Moves cursor to...")
+* Limita la prima linea a 72 caratteri o meno
+* Nelle linee successive [collega liberamente la commit alle issue e alle pull request](https://help.github.com/articles/closing-issues-using-keywords/) 
+
 ### Stili del codice
+Uno stile del codice standard per molti progetti è essenziale. Per i progetti FIUP, _salvo quanto specificato nel file CONTRIBUTING dei singoli repository_, non si adotta uno stile standard. Questo permette a chiunque di partecipare liberamente senza troppi problemi.
+L'importante è che:
+
+* Il codice sia commentato (in italiano e/o in inglese). Il codice non commentato è scarsamente utile soprattutto se riguarda esercizi che hanno lo scopo di far capire i procedimenti svolti e le soluzioni adottate.
 
 ### Stili della documentazione
+
+Anche per la documentazione non adottiamo uno standard preciso. I linguaggi da usare sono preferibilmente HTML, Markdown e LaTeX. 
+
+I commenti al codice sono da intendersi come parte integrante della documentazione.
 
 ## Note aggiuntive
 
