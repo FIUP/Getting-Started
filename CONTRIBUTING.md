@@ -170,8 +170,61 @@ Anche per la documentazione non adottiamo uno standard preciso. I linguaggi da u
 I commenti al codice sono da intendersi come parte integrante della documentazione.
 
 ## Note aggiuntive
-
 ### Etichette per le Issue e Pull Request
+
+Questa sezione lista le etichette che usiamo per aiutarci a tener traccia e gestire sia le issue che le pull request.
+Molte etichette sono usate in tutti i repositori del FIUP, ma alcune sono specifice di questo repository.
+
+[La ricerca di GitHub](https://help.github.com/articles/searching-issues/) rende facile usare le etichette per trovare gruppi di issue o pull request alle quali sei interessato. Per esempio, potresti essere interessato nelle [issue aperte di questo repository non ancora controllate](https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Apr+repo%3Afiup%2Fgetting_started+comments%3A0). Per aiutarti a trovare issue e pull request in modo più efficace, ti incoraggiamo a leggere [questo approfondimento sui filtri di ricerca](https://help.github.com/articles/searching-issues/), ti aiuterà a scrivere query più mirate.
+
+Le etichette sono raggruppate in base al loro scopo, ma non è richiesto che ogni issue abbia un'etichetta per ciascun gruppo o che una issue non possa avere più di un'etichetta per gruppo.
+
+Per favore, apri una issue in `fiup/Getting_Started` se hai suggerimenti per nuove etichette. Se noti che alcune etichette non sono presenti nei repository, apri una issue in quel repository.
+
+
+#### Tipi di Issue e loro stato
+
+| Nome dell'etichetta |  Descrizione |
+| --- | --- |
+| `enhancement`  | Richiesta di nuove feature / miglioramenti, invio di suggerimenti. |
+| `bug`| Bug noti o segnalazioni circa possibili bug. |
+| `question` | Domande inerenti l'organizzazione FIUP in GitHub. Per altri tipi di domande usare i gruppi social. |
+| `feedback` | Richiesta di feedback in merito ad un progetto da parte della comunità.  |
+| `help-wanted`  | I manutentori del FIUP apprezzerebbero aiuto dalla comunità nel risolvere queste issue. |
+| `beginner`  | Issue poco complese adatte a chi contribuisce per le prime volte al FIUP. |
+| `more-information-needed` | Più informazioni devono essere raccolte circa questo problema o richiesta di miglioramenti ad es. i passi per riprodurre il problema). |
+| `blocked`  | Issue bloccate da altre issue. |
+| `duplicate` | Issue che sono duplicati di altre, già create in precedenza. |
+| `wontfix` | Il team del FIUP ha deciso di non fixare la issue per il momento per qualche ragione. |
+| `invalid`  | Issue non valide (per es. per errori degli utenti). |
+| `wrong-repo` | Issue aperta nel repository sbagliato. |
+
+#### Categorie per temi
+
+| Nome dell'etichetta | Descrizione |
+| --- | --- |
+| `windows` | Relative ai problemi su Windows. |
+| `linux` | Relative ai problemi su Linux. |
+| `mac` | Relative ai problemi su macOS / iOS. |
+| `documentation` | Relative a problemi / migliorie alla documentazione. |
+| `performance` | Relative alle performance. |
+| `security` | Relative alla sicurezza |
+| `ui` | Relative alle parti grafiche. |
+| `api` | Relative alle API. |
+| `crash` | Relative ai problemi che causano un crash. |
+| `git` | Relative ai problemi con git (per es. problemi con i file `.gitignore`). |
+
+### Etichette per le Pull Request
+
+| Nome dell'etichetta | Descrizione
+| --- |  --- |
+| `work-in-progress` | Pull request sulle quali si sta ancora lavorando, ulteriori modifiche arriveranno in futuro.|
+| `needs-review` | Pull requests che necessitano di essere controllate da manutentori del FIUP per aggiornare i progetti. |
+| `under-review` | Pull request in fase di controllo da parte dei manutentori del FIUP. |
+| `requires-changes` | Pull request che necessitano cambiamenti dopo essere state controllate, a seguito dei cambiamenti dovranno essere riviste di nuovo. |
+| `needs-testing` | Pull request che richiedono test manuali.|
+
+### Ulteriori riferimenti
 
 Questo documento è ispirato alle linee guida per contribuire al progetto [Atom](https://github.com/atom/atom/blob/master/CONTRIBUTING.md).
 
