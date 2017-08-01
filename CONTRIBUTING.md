@@ -2,11 +2,11 @@
 
 :+1::tada:Innanzi tutto, grazie per dedicare del tempo a contribuire! :tada::+1:
 
-Le seguenti sono delle regole per contribuire al FIUP e ai progetti correlati, ospitati nell'[Organizzazione FIUP](https://github.com/fiup) su GitHub.
+Le seguenti sono delle regole e delle linee guida per contribuire al FIUP e ai progetti correlati, ospitati nell'[Organizzazione FIUP](https://github.com/fiup) su GitHub.
 
-Queste regole comuni vengono applicate per ciascun repository dell'organizzazione ma possono essere facilmente estese o adattate. Assicurati sempre di dare un'occhiata al file CONTRIB.md del singolo repository.
+Queste regole comuni vengono applicate per ciascun repository dell'organizzazione ma possono essere facilmente estese o adattate al singolo. Assicurati sempre di dare un'occhiata al file CONTRIBUTNG.md del singolo repository, in quanto potrebbe includere informazioni aggiuntive.
 
-Per agevolare la creazione dei file CONTRIB abbiamo creato un [template facilmente adattabile](https://github.com/fiup/Getting_Started/docs/SAMPLE_CONTRIB.md) da includere in tutti i repository.
+Per agevolare la creazione dei file CONTRIBUTING abbiamo creato un [template facilmente adattabile](https://github.com/fiup/Getting_Started/docs/CONTRIBUTING_TEMPLATE.md) da includere in tutti i repository.
 
 Se avete suggerimenti su come migliorare queste norme, sentitevi liberi di proporre cambiamenti a questo documento tramite pull request. 
 
