@@ -1,4 +1,4 @@
-# Guida Galattica Computer Science UniPD v. 0.3
+# Guida Galattica Computer Science UniPD v. 0.4
 
 ## Introduzione
 
@@ -23,7 +23,7 @@ Da un paio d'anni si è pensato di rendere più elegante questa breve guida e fa
 ## Informazioni generali
 Nella descrizione del nostro [gruppo Facebook](https://www.facebook.com/groups/fiupd/), cliccando su "Altro..." nel pannello a destra è possibile recuperare tutti i link utili ad orari, lista degli esami, lista dei libri usati in vendita, moodle, documenti, occupazione delle aule e rappresentanti degli studenti. E' il posto giusto dove cercare praticamente tutto.  
   
-Per l’accesso al materiale su MEGA, è tutto spiegato sul file [MEGA FAQ](https://github.com/FIUP/Getting_Started/blob/master/MEGA_FAQ.md) che è stato aggiornato per l’occasione.  
+Per l’accesso al materiale su cloud, è tutto spiegato sul file [CLOUD FAQ](https://github.com/FIUP/Getting_Started/blob/master/CLOUD_FAQ.md) che è stato aggiornato per l’occasione.  
   
 Per qualsiasi problema o suggerimento contattate un admin [via PM su facebook](https://www.facebook.com/groups/fiupd/admins/), oppure scrivete una mail all'indirizzo [fiup.unipd@gmail.com](mailto:fiup.unipd@gmail.com).  
 
@@ -88,7 +88,7 @@ E' preferibile usare software libero e open source in modo da essere meno legati
 Per completezza d'informazione qui sotto sono elencanti anche software proprietari oltre che ad alcuni servizi forniti gratuitamente dall'UniPD.
 
 ### Servizi
-- Dai laboratori P140 e P36 del Paolotti e dal laboratorio in Torre Archimede ogni mese si hanno 300 stampe, in bianco e nero, gratuite. Su MEGA sono presenti degli utili script e guide per stampare dai laboratori.
+- Dai laboratori P140 e P36 del Paolotti e dal laboratorio in Torre Archimede ogni mese si hanno 300 stampe, in bianco e nero, gratuite. Sullo spazio cloud sono presenti degli utili script e guide per stampare dai laboratori.
 - E' possibile abilitare il badge per stampare presso dei punti preposti (tipo le biblioteche). Per far ciò occorre creare un account [qui](http://padova.ricohmyprint.it/RicohmyPrint/Login.aspx).   
   Le istruzioni per usare il servizio possono essere trovate al link indicato sopra.
 
@@ -132,19 +132,19 @@ In ogni caso sì, c’è chi vende i libri usati per molti dei corsi in questo g
 Nel gruppo indicato è possibile anche vendere e scambiare dispense e appunti, purché si rispetti sempre il diritto d'autore.
 
 2.	**Esiste un luogo dove posso vedere gli appelli degli anni precedenti, gli appunti o qualsiasi altra cosa che mi possa tornare utile per studiare?**  
-Certamente, li puoi trovare su MEGA dove sono presenti il 90% degli appelli di qualsiasi corso degli anni precedenti (a volte anche con relative soluzioni), assieme ad esercizi, riassunti e altri file utili. Il codice degli esercizi di programmazione lo trovi esclusivamente su Github, non caricarlo in MEGA in quanto verrà eliminato. 
+Certamente, li puoi trovare sugli spazi cloud dove sono presenti il 90% degli appelli di qualsiasi corso degli anni precedenti (a volte anche con relative soluzioni), assieme ad esercizi, riassunti e altri file utili. Il codice degli esercizi di programmazione lo trovi esclusivamente su Github, non caricarlo su altri spazi cloud in quanto verrà eliminato. 
 
-3.	**Che bella cosa! Come posso accedere a questo “MEGA”?**  
-Per far sì che tu possa vedere la nostra cartella condivisa è sufficiente fare un post con il tag [MEGA] nel gruppo Facebook o telegram, chiedendo di essere aggiunto e lasciando la tua e-mail con la quale ti sarai precedentemente iscritto a Mega. Se invece non vuoi rendere pubblica il tuo indirizzo e-mail puoi contattare privatamente un amministratore del FIUP (li puoi trovare tutti qua: http://on.fb.me/1XC4dHW ) e chiedere di essere aggiunto.  
-Fatto questo un admin provvederà al più presto ad aggiungerti e potrai vedere il FIUP (e la sua cartella condivisa) tra i contatti di Mega!  
+3.	**Che bella cosa! Come posso accedere agli spazi cloud?** 
+Per far sì che tu possa vedere la nostra cartella condivisa è sufficiente fare un post con il tag [MEGA] nel gruppo Facebook o telegram, chiedendo di essere aggiunto e lasciando la tua e-mail con la quale ti sarai precedentemente iscritto al servizio cloud. Se invece non vuoi rendere pubblica il tuo indirizzo e-mail puoi contattare privatamente [un amministratore del FIUP](http://on.fb.me/1XC4dHW) e chiedere di essere aggiunto.  
+Fatto questo un admin provvederà al più presto ad aggiungerti e potrai vedere il FIUP (e la sua cartella condivisa) tra i contatti dello spazio cloud!  
 L'iscrizione è necessaria per condividere materiale.
 
-4.	**Oddio ho un problema con Mega e non so cosa fare!**  
-Non preoccuparti, mantieni il sangue freddo e contatta uno degli admin del gruppo (che trovi qua: http://on.fb.me/1XC4dHW) spiegando il problema. Sapranno aiutarti nel minor tempo possibile!  
+4.	**Oddio ho un problema con MEGA e non so cosa fare!**  
+Non preoccuparti, mantieni il sangue freddo e contatta uno degli [admin del gruppo](http://on.fb.me/1XC4dHW) spiegando il problema. Sapranno aiutarti nel minor tempo possibile!  
 
 5.	**Ho sentito parlare di UniWeb, Moodle, E-learning, EduOpen cosa diavolo sono?!**  
 Facciamo un po’ di chiarezza.  
-UniWeb è la piattaforma ufficiale di Ateneo, e serve per sapere gli esiti degli appelli, accettare/rifiutare un voto o iscriverti ad un esame (varie guide per il suo utilizzo sono reperibili al seguente indirizzo: http://bit.ly/1O8CU3S). 
+UniWeb è la piattaforma ufficiale di Ateneo, e serve per sapere gli esiti degli appelli, accettare/rifiutare un voto o iscriverti ad un esame (sono disponibili [varie guide per il suo utilizzo](http://bit.ly/1O8CU3S). 
 E-learning è una piattaforma di apprendimento digitale (da qui il nome) mentre moodle è una sorta di “Forum”, con molte sezioni dedicate ai vari corsi, all’interno delle quali vengono postati file utili, esercizi da fare e/o informazioni utili direttamente dai professori.
 [EduOpen](goo.gl/1B68HM) è una piattaforma comune a varie università italiane dove anche l'Università di Padova pubblica dei corsi interamente online chiamati [MOOC](https://it.wikipedia.org/wiki/MOOC).
 
@@ -156,15 +156,15 @@ Per accedervi il link è [questo](http://bit.ly/1JP4dNz) mentre le credenziali s
 **ATTENZIONE:** I forum sopra indicati seppure ancora attivi, sono di fatto inutilizzati e sono stati sostituiti da  un gruppo facebook che trovi [qui](https://www.facebook.com/groups/CCS.informatica.unipd/)
 
 7.	**Ci sono altri forum utili?**  
-Si, c’è quello di Programmazione per il Primo anno della Laurea Triennale, visitabile [qui](goo.gl/xO9J2o).
+Si, c’è quello di [Programmazione per il Primo anno della Laurea Triennale](goo.gl/xO9J2o).
 
 8.	**Tutto molto interessante, ma noi siamo informatici. Non è che ci sono app o qualcosa di simile di utile?**  
 Certamente, tutto ciò che potrebbe esserti utile è stato raccolto nel capitolo [App utili](#app-utili).
 
 9.	**Per quanto riguarda il badge? Ci si può fare qualcosa?**  
 Il badge va attivato e può essere utilizzato per le fotocopie. Ecco tutti i link utili:  
-    -	Cartella Mega con tutte le info: http://bit.ly/1VJ2z5n
-    -	Locandina ufficiale: http://bit.ly/1NdIgu0
+    -	[Cartella su cloud con tutte le info](http://bit.ly/1VJ2z5n)
+    -	[Locandina ufficiale](http://bit.ly/1NdIgu0)
 
 10.	**Wi-Fi? C’è?**  
 Certamente, mica siamo a lettere (ovviamente scherziamo)! Il Wi-Fi per noi è essenziale!  
@@ -177,13 +177,13 @@ I tutor sono studenti che si mettono a disposizione per determinati orari durant
 
 12.	**Questa università è social?**  
 Certamente, ecco tutti i link utili:  
-    - Pagina Facebook ufficiale dell’Università di Padova: http://on.fb.me/1g5vsJ3
-    - Account Twitter ufficiale dell’Università di Padova: http://bit.ly/1NXNyLB
+    - [Pagina Facebook ufficiale dell’Università di Padova](http://on.fb.me/1g5vsJ3)
+    - [Account Twitter ufficiale dell’Università di Padova](http://bit.ly/1NXNyLB)
     
-    - Account Twitter del FIUP: http://bit.ly/1EO63iE 
-    - Account GitHub ufficiale del FIUP: http://bit.ly/1XC9a3r 
-    - Canale Telegram del FIUP: https://telegram.me/infofromfiup
-    - Gruppo Telegram del FIUP: https://telegram.me/FIUPd
+    - [Account Twitter del FIUP](http://bit.ly/1EO63iE) 
+    - [Organizzazione FIUP su GitHub](http://bit.ly/1XC9a3r) 
+    - [Canale Telegram del FIUP](https://telegram.me/infofromfiup)
+    - [Gruppo Telegram del FIUP](https://telegram.me/FIUPd)
 
 Esistono moltre altre pagine utili sui social, impossibili da elencare tutte, a voi scoprirle.
 Infine, ricordiamo che tutto ciò che può esservi utile può essere trovato nella descrizione del gruppo facebook, sulla destra, premendo su “Altro”.
@@ -191,7 +191,7 @@ Infine, ricordiamo che tutto ciò che può esservi utile può essere trovato nel
 ***
 
 ## Note finali
-Il FIUP è sempre alla ricerca di collaboratori e gente volenterosa, se avete consigli, suggerimenti, se volete proporre attività e/o dedicarvi al volontariato spedite una mail all'indirizzo fiup.unipd@gmail.com.
+Il FIUP è sempre alla ricerca di collaboratori e gente volenterosa, se avete consigli, suggerimenti, se volete proporre attività e/o dedicarvi al volontariato spedite una mail all'indirizzo [fiup.unipd@gmail.com](mailto:fiup.unipd@gmail.com).
 
 Non è richiesta nessuna conoscenza pregressa, solo tempo da dedicare alla causa e buona volontà.
 
