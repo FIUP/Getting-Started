@@ -11,9 +11,11 @@ Prima di acquistare libri, fate sempre riferimento ai docenti e ai volumi consig
 ## Indice
 0. [Indice](#indice)
 1. [Laurea Triennale](#laurea-triennale)  
-    2. [Primo Anno](#primo-anno)
-    3. [Secondo Anno](#seocndo-anno)
-    4. [Terzo Anno](#terzo-anno)
+
+    - [Primo Anno](#primo-anno)
+    - [Secondo Anno](#seocndo-anno)
+    - [Terzo Anno](#terzo-anno)
+
 5. [Laurea Magistrale](#laurea-magistrale)
 
 ***
