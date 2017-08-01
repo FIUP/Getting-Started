@@ -68,7 +68,7 @@ Se la Pull Request verrà accettata da un manutentore, il tutto andrà a buon fi
 Seguire queste linee guida aiuta i manutentori e la comunità a capire più facilmente il problema.
 
 Prima di inviare una segnalazione sui bug, per favore
-controlla [questa lista](#prima-di-inviare-una-segnalazione-sui-bug) in quanto potresti scoprire che non necessiti di segnarlo. Mentre stai creando una segnalazione, per favore [includi quanti più dettagli possibile](#come-invio-una-buona-segnalazione). Se vuoi, puoi usare [questo template](ISSUE_TEMPLATE.md) per strutturare le informazioni.
+controlla [questa lista](#prima-di-inviare-una-segnalazione-sui-bug) in quanto potresti scoprire che non necessiti di segnarlo. Mentre stai creando una segnalazione, per favore [includi quanti più dettagli possibile](#come-invio-una-buona-segnalazione). Puoi usare [questo template](docs/ISSUE_TEMPLATE.md) per strutturare le informazioni.
 
 #### Prima di inviare una segnalazione sui bug
 
@@ -106,7 +106,7 @@ Includi dettagli sul tuo ambiente e sulla tua configurazione:
 
 Questa sezione ti guiderà su come inviare suggerimenti per migliorare il FIUP e i progetti ad esso correlati. Seguire queste linee guida aiuta i manutentori e la comunità a capire il tuo suggerimento :pencil: e a collegarlo ad altri già esistenti :mag_right: .
 
-Prima di creare suggerimenti, per favore controlla [questa lista](#prima-di-inviare-un-suggerimento) in quanto potresti scoprire di non aver bisogno di crearne uno nuovo. Quando suggerisci una miglioria, per favore [includi quanti più dettagli possibile](#come-posso-suggerire-una-miglioria). Per agevolarti abbiamo creato [un template](ISSUE_TEMPLATE.md).
+Prima di creare suggerimenti, per favore controlla [questa lista](#prima-di-inviare-un-suggerimento) in quanto potresti scoprire di non aver bisogno di crearne uno nuovo. Quando suggerisci una miglioria, per favore [includi quanti più dettagli possibile](#come-posso-suggerire-una-miglioria). Per agevolarti abbiamo creato [un template](docs/ISSUE_TEMPLATE.md).
 
 #### Prima di inviare un suggerimento 
 
@@ -132,7 +132,7 @@ Unsure where to begin contributing to Atom? Potresti iniziare dalle issue etiche
 Entrambe le liste di issue sono ordinate in base al numero totale di commenti. Anche se non è perfetto, il numero di commenti è un misuratore ragionevole dell'impatto che una issue potrà avere.
 ### Pull Requests
 
-* Compila il [template](PULL_REQUEST_TEMPLATE.md)
+* Compila il [template](docs/PULL_REQUEST_TEMPLATE.md)
 * Non includere i numeri delle issue nel titolo della PR
 * Includi screenshots e/o  GIF animate nella tua PR se lo ritieni utile.
 * Documenta il nuovo codice usando gli [Stili della documentazione](#stili-della-documentazione
