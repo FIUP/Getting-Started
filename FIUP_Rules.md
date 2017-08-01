@@ -72,7 +72,7 @@ Se volete allargare la ricerca potete provare ad usare l'app [UniBook](http://ww
 - [Documento su Google Drive](https://bit.ly/ConsigliInformaticaUniPD) per consigli, critiche o 
 suggerimento per quanto riguarda il nostro corso di studi
 
-- [MEGA FAQ](https://github.com/FIUP/Getting_Started/blob/master/MEGA_FAQ.md)
+- [CLOUD FAQ](https://github.com/FIUP/Getting_Started/blob/master/MEGA_FAQ.md)
 
 - [Orario delle lezioni](https://bit.ly/OrarioInformaticaUniPD)
 
