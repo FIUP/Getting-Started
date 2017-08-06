@@ -1,8 +1,7 @@
 # FIUP 
 **Futuri Informatici dell'Universita' di Padova.** 
 
-Il gruppo e' liberamente accessibile a studenti, docenti e personale dei corsi di Laurea Triennale e Magistrale in Informatica
-presso la Scuola di Scienze dell'[Universita' degli Studi di Padova](https://www.unipd.it/). 
+Il gruppo e' liberamente accessibile a studenti, docenti e personale dei corsi di [Laurea Triennale](http://informatica.math.unipd.it/laurea/index.html), [Magistrale](http://informatica.math.unipd.it/laureamagistrale/index.html) e [dottorato](http://informatica.math.unipd.it/dottorato/index.html) in Informatica, presso la [Scuola di Scienze](http://www.scienze.unipd.it/) dell'[Universita' degli Studi di Padova](https://www.unipd.it/). 
 
 ***
 
@@ -23,7 +22,7 @@ I seguenti punti di questa sezione si applicano a tutti gli spazi online del FIU
 
 2. Valgono le solite [regole da forum](http://it.wikipedia.org/wiki/Netiquette) 
 Ognuno si assume la responsabilita' di quanto scritto, non sono tollerati insulti, offese, bestemmie, minacce, pornografia, attacchi personali, etc.
-Post del genere verranno rimossi e possono comportare un ban. Qualsiasi utente del FIUP è tenuto a rispettare il [Codice di Condotta](https://github.com/FIUP/Getting_Started/blob/master/CODE_OF_CONDUCT.md).
+Post del genere verranno rimossi e possono comportare un ban. Qualsiasi utente del FIUP è tenuto ad accettare e a rispettare il [Codice di Condotta](https://github.com/FIUP/Getting_Started/blob/master/CODE_OF_CONDUCT.md).
 
 3. Per le offerte di lavoro il posto ideale e' il gruppo facebook del [PiP](https://www.facebook.com/groups/programmersinpadua/) a meno che non siano proposte rivolte prevalentemente ad universitari. 
 In questo caso usate i tag \[OT] o [LAVORO]\.
@@ -35,7 +34,7 @@ In questo caso usate i tag \[OT] o [LAVORO]\.
 6. E' preferibile caricare e condividere materiale usando formati aperti e standard. 
 Salvo diversa ed esplicita indicazione, tutti i contenuti sono da intendersi condivisi con licenze [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) e [GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html) 
 
-7. Per suggerimenti,problemi o per mettersi in gioco, contattate un [admin](https://facebook.com/groups/fiupd/admins) o inviate una [mail](fiup.unipd@gmail.com).
+7. Per suggerimenti,problemi o per mettersi in gioco, contattate un [admin](https://facebook.com/groups/fiupd/admins), inviate una [mail](fiup.unipd@gmail.com), o consultate le [linee guida per contribuire](https://github.com/FIUP/Getting_Started/blob/master/CONTRIBUTING.md#come-posso-contribuire).
 
 > *L'amicizia e' d'aiuto ai giovani perche' non commettano errori* > - Aristotele, Etica Nicomachea
 
@@ -59,7 +58,7 @@ E' possibile anche vendere / regalare dispense con le stesse modalita' dei libri
 
 Vendere libri (o dispense) interamente fotocopiati, in barba al diritto d'autore, e' illegale, quindi non cercate di venderli all'interno del gruppo. Al limite affrontate la questione in privato. 
 
-***Gli amministratori non possono e non devono essere ritenuti responsabili per un uso scorretto del servizio o per eventuali violazioni del diritto d'autore da parte degli utenti.***.
+**_Gli amministratori non possono e non devono essere ritenuti responsabili per un uso scorretto del servizio o per eventuali violazioni del diritto d'autore da parte degli utenti._**
 
 Se volete allargare la ricerca potete provare ad usare l'app [UniBook](http://www.unibookapp.com/)
 
