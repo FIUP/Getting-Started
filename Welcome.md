@@ -2,7 +2,7 @@
 
 ## Introduzione
 
-Ogni anno è consuetudine fornire dei consigli  ai nuovi arrivati, sia per la laurea triennale che per la magistrale, attraverso i nostri canali social.  
+Ogni anno è consuetudine fornire dei consigli  ai nuovi arrivati, sia per la laurea triennale che per la magistrale, attraverso [i nostri canali social](https://github.com/FIUP/Getting_Started/blob/master/FIUP_Rules.md#il-fiup-nei-social).  
 Da un paio d'anni si è pensato di rendere più elegante questa breve guida e far si che sia scaricabile in vari formati, per poterla usare su dispositivi mobili anche offline.
 
 ***
