@@ -2,7 +2,7 @@
 
 ## Introduzione
 
-Ogni anno è consuetudine aprire un post sul gruppo facebook dedicato ai nuovi arrivati sia per la laurea triennale che per la magistrale (ma non solo).  
+Ogni anno è consuetudine fornire dei consigli  ai nuovi arrivati, sia per la laurea triennale che per la magistrale, attraverso i nostri canali social.  
 Da un paio d'anni si è pensato di rendere più elegante questa breve guida e far si che sia scaricabile in vari formati, per poterla usare su dispositivi mobili anche offline.
 
 ***
@@ -21,14 +21,18 @@ Da un paio d'anni si è pensato di rendere più elegante questa breve guida e fa
 ***
 
 ## Informazioni generali
-Nella descrizione del nostro [gruppo Facebook](https://www.facebook.com/groups/fiupd/), cliccando su "Altro..." nel pannello a destra è possibile recuperare tutti i link utili ad orari, lista degli esami, lista dei libri usati in vendita, moodle, documenti, occupazione delle aule e rappresentanti degli studenti. E' il posto giusto dove cercare praticamente tutto.  
+
+Nella sezione[Link utili](#link-utili) è possibile recuperare tutti i link utili ad orari, lista degli esami, lista dei libri usati in vendita, moodle, documenti, occupazione delle aule e rappresentanti degli studenti. E' il posto giusto dove cercare praticamente tutto.  
   
 Per l’accesso al materiale su cloud, è tutto spiegato sul file [CLOUD FAQ](https://github.com/FIUP/Getting_Started/blob/master/CLOUD_FAQ.md) che è stato aggiornato per l’occasione.  
-  
-Per qualsiasi problema o suggerimento contattate un admin [via PM su facebook](https://www.facebook.com/groups/fiupd/admins/), oppure scrivete una mail all'indirizzo [fiup.unipd@gmail.com](mailto:fiup.unipd@gmail.com).  
+
+Utilizzando i servizi del FIUP dichiari di accettare e ti impegni a rispettare il nostro [Codice di Condotta](https://github.com/FIUP/Getting_Started/blob/master/CODE_OF_CONDUCT.md).
+
+Per qualsiasi problema o suggerimento contattate un [admin](https://www.facebook.com/groups/fiupd/admins/), oppure scrivete una mail all'indirizzo [fiup.unipd@gmail.com](mailto:fiup.unipd@gmail.com). Se vuoi [segnalare bug](https://github.com/FIUP/Getting_Started/blob/master/CONTRIBUTING.md#segnalare-bug) o [suggerire miglioramenti](https://github.com/FIUP/Getting_Started/blob/master/CONTRIBUTING.md#suggerire-miglioramenti) ai progetti, usa le [Github issue]() 
+
+Il FIUP è sempre alla ricerca di volontari, [anche senza esperienza](https://github.com/FIUP/Getting_Started/blob/master/CONTRIBUTING.md#altri-tipi-di-contributo) che vogliano contribuire. Scopri come fare leggendo le nostre [linee guida per contribuire](https://github.com/FIUP/Getting_Started/blob/master/CONTRIBUTING.md).
 
 ***
-
 ## Link utili
 - [Gruppo CCS Ufficiale del corso su facebook](https://www.facebook.com/groups/CCS.informatica.unipd/)
 - Per consigli, critiche o suggerimenti in merito al nostro corso di studi (Laurea Triennale) esiste questo [documento su Google Drive](http://bit.ly/ConsigliInformaticaUniPD)
@@ -82,7 +86,6 @@ Come tutti sanno, fotocopiare e vendere libri fotocopiati è **illegale**. Quind
 - [UniBook](http://www.unibookapp.com/): Commercio Libri anche con membri esterni esterni al FIUP.
 
 ***
-
 ## Benefici ed utility gratuite
 
 E' preferibile usare software libero e open source in modo da essere meno legati a tecnologie specifiche.  
