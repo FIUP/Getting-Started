@@ -84,9 +84,7 @@ A tutti capita di sbagliare, se ti accorgi dell'errore segnalalo alla mail del g
 	
 - ***Mi sfugge ancora il punto della situazione*** A causa dei molti contatti il link della cartella principale non funziona a dovere (non sincronizza la roba), si rende quindi necessaria la trafila spiegata prima per garantire l'accesso a tutti, anche a chi è senza account. 
 	
-- ***Quali licenze usiamo?*** Tutto il materiale caricato sullo spazio FIUP è da intendersi rilasciato dall’utente che carica il materiale (salvo esplicita diversa volontà) sotto licenze [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/) se si tratta di appunti, esercitazioni, e opere per i quali l’utente che carica dispone dei diritti. Per il codice usiamo la [GPLv3](http://katolaz.homeunix.net/gplv3/)
-
-- ***E’ possibile caricare materiale usando licenze differenti?*** Certo, purché chi carica includa assieme al materiale un file contenente la licenza che desidera usare oppure includa nel materiale stesso dei riferimenti alla licenza stessa. Per incentivare la condivisione evitate licenze chiuse e proprietarie che inibiscano la condivisione.
+- ***Quali licenze usiamo? E’ possibile caricare materiale usando licenze differenti?*** Certo, è possibile, è tutto spiegato in dettaglio nel nostro file CONTRIBUTING nella sezione [Licenze usate](https://github.com/FIUP/Getting_Started/blob/master/CONTRIBUTING.md#licenze-usate).
 
 - ***Esistono dei client per MEGA?*** Si, esistono ma non sono molto affidabili, ne sconsigliamo pertanto l'uso.
 	

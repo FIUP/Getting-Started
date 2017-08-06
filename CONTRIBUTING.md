@@ -237,6 +237,12 @@ Per favore, apri una issue in `fiup/Getting_Started` se hai suggerimenti per nuo
 | `under-review` | Pull request in fase di controllo da parte dei manutentori del FIUP. |
 | `requires-changes` | Pull request che necessitano cambiamenti dopo essere state controllate, a seguito dei cambiamenti dovranno essere riviste di nuovo. |
 | `needs-testing` | Pull request che richiedono test manuali.|
+### Licenze usate
+Tutto il materiale caricato sugli spazi FIUP, se non esplicitamente rilasciato dall'utente allgando una specifica licenza, è da intendersi rilasciato sotto licenze [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) se si tratta di appunti, esercitazioni, e opere per i quali l’utente che carica dispone dei diritti. Per il codice, salvo quanto diversamente indicato, si intende interamente rilasciato sotto licenza [GPLv3](http://katolaz.homeunix.net/gplv3/).
+
+E’ possibile condividere materiale e codice usando licenze differenti, purché l'utente includa un file "LICENSE" riportante la licenza che desidera utilizzare oppure includa nel materiale stesso dei riferimenti alla licenza stessa. Per incentivare la condivisione e un miglioramento continuo è consigliato evitare licenze chiuse e proprietarie.
+
+Se non si sa che licenza scegliere, si può consultare [questo strumento](https://choosealicense.com/), ulteriori informazioni su come associare una licenza ad un repository, possono essere [reperite qui](https://help.github.com/articles/licensing-a-repository/). 
 
 ### Ulteriori riferimenti
 
