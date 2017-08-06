@@ -31,6 +31,7 @@ Per qualsiasi problema o suggerimento contattate un admin [via PM su facebook](h
 
 ## Link utili
 - [Gruppo CCS Ufficiale del corso su facebook](https://www.facebook.com/groups/CCS.informatica.unipd/)
+- Per consigli, critiche o suggerimenti in merito al nostro corso di studi (Laurea Triennale) esiste questo [documento su Google Drive](http://bit.ly/ConsigliInformaticaUniPD)
 - Ogni studente possiede un indirizzo e-mail universitario non configurabile su dispositivi mobili a causa di un blocco.  
 Per ovviare a questo problema, troverete [qua](https://support.google.com/mail/answer/10957?hl=it) la guida per impostare l'inoltro automatico verso un vostro indirizzo.
 - [File .pdf con la presentazione generale del corso di informatica A.A. 2016/2017](goo.gl/QNRVgG)
