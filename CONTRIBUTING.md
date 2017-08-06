@@ -62,9 +62,9 @@ Per creare un nuovo repository:
 * Copia la [cartella docs del repository Getting_Started](https://github.com/FIUP/Getting_Started/tree/master/docs) dentro alla directory principale del tuo repository.
 * Adatta i template contenuti nella cartella docs in base alle esigenze del tuo repository, in particolare:
     - Imposta un README, usando il [README template](https://github.com/fiup/Getting_Started/docs/README_TEMPLATE.md).
-    - E' sconsigliato modificare i file [ISSUE_TEMPLATE](#https://github.com/FIUP/Getting_Started/blob/master/docs/ISSUE_TEMPLATE.md) e [PULL_REQUEST_TEMPLATE](#https://github.com/FIUP/Getting_Started/blob/master/docs/PULL_REQUEST_TEMPLATE.md) in quanto potrebbero entrare in conflitto con le linee guida generali per contribuire.
-    - Imposta il file CONTRIBUTING con le linee guida specifiche per contribuire al tuo repository, adattando il [CONTRIBUTIG template](https://github.com/fiup/Getting_Started/docs/CONTRIBUTING_TEMPLATE.md).
-    - Assicurati che nei file README e CONTRIBUTIG sia presente un link al nostro [Code of Conduct](#https://github.com/FIUP/Getting_Started/blob/master/CODE_OF_CONDUCT.md). Creando un nuovo repository dichiari di accettare e di rispettare il nostro codice di condotta.
+    - E' sconsigliato modificare i file [ISSUE_TEMPLATE](https://github.com/FIUP/Getting_Started/blob/master/docs/ISSUE_TEMPLATE.md) e [PULL_REQUEST_TEMPLATE](https://github.com/FIUP/Getting_Started/blob/master/docs/PULL_REQUEST_TEMPLATE.md) in quanto potrebbero entrare in conflitto con le linee guida generali per contribuire.
+    - Imposta il file CONTRIBUTING con le linee guida specifiche per contribuire al tuo repository, adattando il [CONTRIBUTING template](https://github.com/fiup/Getting_Started/docs/CONTRIBUTING_TEMPLATE.md).
+    - Assicurati che nei file README e CONTRIBUTIG sia presente un link al nostro [Code of Conduct](https://github.com/FIUP/Getting_Started/blob/master/CODE_OF_CONDUCT.md). Creando un nuovo repository dichiari di accettare e di rispettare il nostro codice di condotta.
     - Assicurati di avere un file LICENSE che specifica la licenza del tuo repository. Cerca di usare licenze libere. I repository del FIUP senza licenze non sono da considerarsi software proprietario. Per ulteriori informazioni consulta la nostra [policy sulle licenze](#licenze-usate). 
 * Effettua le modifiche che ritieni necessarie al tuo repository, fai una commit e una push
 * Complimenti, il tuo repository è impostato e fa ora parte del FIUP.
