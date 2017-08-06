@@ -6,9 +6,7 @@ Le seguenti sono delle regole e delle linee guida per contribuire al FIUP e ai p
 
 Queste regole comuni vengono applicate per ciascun repository dell'organizzazione ma possono essere facilmente estese o adattate al singolo. Assicurati sempre di dare un'occhiata al file CONTRIBUTNG.md del singolo repository, in quanto potrebbe includere informazioni aggiuntive.
 
-Per agevolare la creazione dei file CONTRIBUTING abbiamo creato un [template facilmente adattabile](https://github.com/fiup/Getting_Started/docs/CONTRIBUTING_TEMPLATE.md) da includere in tutti i repository.
-
-Se avete suggerimenti su come migliorare queste norme, sentitevi liberi di proporre cambiamenti a questo documento tramite pull request. 
+Se avete suggerimenti su come migliorare queste norme e le linee guida associate, sentitevi liberi di proporre cambiamenti a questo documento tramite pull request. 
 
 #### Indice dei contenuti
 
@@ -49,12 +47,27 @@ Per favore segnalate comportamenti in violazione con il Codice di Condotta all'i
 > **Nota:** __Per favore non aprire una issue se hai solo una domanda.__ Puoi trovare più facilmente una risposta usando le risorse elencate in seguito.
 
 Per qualsiasi dubbio o domanda chiedi nel [gruppo telegram del FIUP](https://t.me/FIUPd) dove la comunità è più attiva e saprà esserti d'aiuto.
-
 ## Come posso contribuire?
 
 Puoi contribuire ai repository su GitHub, alle attività online e offline del FIUP o semplicemente aiutando altri utenti e caricando i tuoi appunti. Per ulteriori informazioni consulta la sezione [Altri tipi di contributo](#altri-tipi-di-contributo)
 ### Lavorare sui repository
+#### Creare un nuovo repository
 
+Per agevolare la creazione dei file CONTRIBUTING abbiamo creato dei template facilmente adattabili da includere in tutti i repository.
+
+Per creare un nuovo repository:
+* Crea un nuovo repository all'interno dell'organizzazione FIUP in GitHub
+* Esegui un clone in locale del repositor, ypossibilemente via [SSH](https://help.github.com/articles/connecting-to-github-with-ssh/) usando il comando `git clone link_del_repository`
+* Copia la [cartella docs del repository Getting_Started](https://github.com/FIUP/Getting_Started/tree/master/docs) dentro alla directory principale del tuo repository.
+* Adatta i template contenuti nella cartella docs in base alle esigenze del tuo repository, in particolare:
+    - Imposta un README, usando il [README template](https://github.com/fiup/Getting_Started/docs/README_TEMPLATE.md).
+    - E' sconsigliato modificare i file [ISSUE_TEMPLATE](#docs/ISSUE_TEMPLATE.md) e [PULL_REQUEST_TEMPLATE](#PULL_REQUEST_TEMPLATE.md) in quanto potrebbero entrare in conflitto con le linee guida generali per contribuire.
+    - Imposta il file CONTRIBUTING con le linee guida specifiche per contribuire al tuo repository, adattando il [CONTRIBUTIG template](https://github.com/fiup/Getting_Started/docs/CONTRIBUTING_TEMPLATE.md).
+    - Assicurati che nei file README e CONTRIBUTIG sia presente un link al nostro [Code of Conduct](#CODE_OF_CONDUCT.md). Creando un nuovo repository dichiari di accettare e di rispettare il nostro codice di condotta.
+    - Assicurati di avere un file LICENSE che specifica la licenza del tuo repository. Cerca di usare licenze libere. I repository del FIUP senza licenze non sono da considerarsi software proprietario. Per ulteriori informazioni consulta la nostra [policy sulle licenze](#licenze-usate). 
+* Effettua le modifiche che ritieni necessarie al tuo repository, fai una commit e una push
+* Complimenti, il tuo repository è impostato e fa ora parte del FIUP.
+#### Collaborare ad un repository esistente
 Quando intendi collaborare ad un progetto presente nell'organizzazione FIUP in Github, il modo migliore è:
 
 1. Individuare il repository corretto
