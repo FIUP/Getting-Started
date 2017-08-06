@@ -22,13 +22,13 @@ Da un paio d'anni si è pensato di rendere più elegante questa breve guida e fa
 
 ## Informazioni generali
 
-Nella sezione[Link utili](#link-utili) è possibile recuperare tutti i link utili ad orari, lista degli esami, lista dei libri usati in vendita, moodle, documenti, occupazione delle aule e rappresentanti degli studenti. E' il posto giusto dove cercare praticamente tutto.  
+Nella sezione [Link utili](#link-utili) è possibile recuperare tutti i link utili ad orari, lista degli esami, lista dei libri usati in vendita, moodle, documenti, occupazione delle aule e rappresentanti degli studenti. E' il posto giusto dove cercare praticamente tutto.  
   
 Per l’accesso al materiale su cloud, è tutto spiegato sul file [CLOUD FAQ](https://github.com/FIUP/Getting_Started/blob/master/CLOUD_FAQ.md) che è stato aggiornato per l’occasione.  
 
 Utilizzando i servizi del FIUP dichiari di accettare e ti impegni a rispettare il nostro [Codice di Condotta](https://github.com/FIUP/Getting_Started/blob/master/CODE_OF_CONDUCT.md).
 
-Per qualsiasi problema o suggerimento contattate un [admin](https://www.facebook.com/groups/fiupd/admins/), oppure scrivete una mail all'indirizzo [fiup.unipd@gmail.com](mailto:fiup.unipd@gmail.com). Se vuoi [segnalare bug](https://github.com/FIUP/Getting_Started/blob/master/CONTRIBUTING.md#segnalare-bug) o [suggerire miglioramenti](https://github.com/FIUP/Getting_Started/blob/master/CONTRIBUTING.md#suggerire-miglioramenti) ai progetti, usa le [Github issue]() 
+Per qualsiasi problema o suggerimento contattate un [admin](https://www.facebook.com/groups/fiupd/admins/), oppure scrivete una mail all'indirizzo [fiup.unipd@gmail.com](mailto:fiup.unipd@gmail.com). Se vuoi [segnalare bug](https://github.com/FIUP/Getting_Started/blob/master/CONTRIBUTING.md#segnalare-bug) o [suggerire miglioramenti](https://github.com/FIUP/Getting_Started/blob/master/CONTRIBUTING.md#suggerire-miglioramenti) ai progetti, usa le [Github issue](https://guides.github.com/features/issues/). 
 
 Il FIUP è sempre alla ricerca di volontari, [anche senza esperienza](https://github.com/FIUP/Getting_Started/blob/master/CONTRIBUTING.md#altri-tipi-di-contributo) che vogliano contribuire. Scopri come fare leggendo le nostre [linee guida per contribuire](https://github.com/FIUP/Getting_Started/blob/master/CONTRIBUTING.md).
 
