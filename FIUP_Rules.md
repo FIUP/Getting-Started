@@ -32,7 +32,7 @@ In questo caso usate i tag \[OT] o [LAVORO]\.
 5. Sugli spazi cloud non e' possibile caricare alcun testo protetto da diritti d'autore. Il gruppo (e chi lo gestisce) non si assume nessuna responsabilita' eventualmente ce ne fossero.
 
 6. E' preferibile caricare e condividere materiale usando formati aperti e standard. 
-Salvo diversa ed esplicita indicazione, tutti i contenuti sono da intendersi condivisi con licenze [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) e [GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html) 
+Salvo diversa ed esplicita indicazione, tutti i contenuti sono da intendersi condivisi con licenze [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) e [GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html). Ulteriori informazioni sulle [licenze usate](https://github.com/FIUP/Getting_Started/blob/master/CONTRIBUTING.md#licenze-usate).
 
 7. Per suggerimenti,problemi o per mettersi in gioco, contattate un [admin](https://facebook.com/groups/fiupd/admins), inviate una [mail](fiup.unipd@gmail.com), o consultate le [linee guida per contribuire](https://github.com/FIUP/Getting_Started/blob/master/CONTRIBUTING.md#come-posso-contribuire).
 
