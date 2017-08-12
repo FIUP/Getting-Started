@@ -61,12 +61,12 @@ Per creare un nuovo repository:
 * Esegui un clone in locale del repositor, ypossibilemente via [SSH](https://help.github.com/articles/connecting-to-github-with-ssh/) usando il comando `git clone link_del_repository`
 * Copia la [cartella docs del repository Getting_Started](https://github.com/FIUP/Getting_Started/tree/master/docs) dentro alla directory principale del tuo repository.
 * Adatta i template contenuti nella cartella docs in base alle esigenze del tuo repository, in particolare:
-    - Imposta un README, usando il [README template](https://github.com/fiup/Getting_Started/docs/README_TEMPLATE.md).
+    - Imposta un README, puoi usare il [README template](https://github.com/fiup/Getting_Started/docs/README_TEMPLATE.md).
     - E' sconsigliato modificare i file [ISSUE_TEMPLATE](https://github.com/FIUP/Getting_Started/blob/master/docs/ISSUE_TEMPLATE.md) e [PULL_REQUEST_TEMPLATE](https://github.com/FIUP/Getting_Started/blob/master/docs/PULL_REQUEST_TEMPLATE.md) in quanto potrebbero entrare in conflitto con le linee guida generali per contribuire.
     - Imposta il file CONTRIBUTING con le linee guida specifiche per contribuire al tuo repository, adattando il [CONTRIBUTING template](https://github.com/fiup/Getting_Started/docs/CONTRIBUTING_TEMPLATE.md).
     - Assicurati che nei file README e CONTRIBUTIG sia presente un link al nostro [Code of Conduct](https://github.com/FIUP/Getting_Started/blob/master/CODE_OF_CONDUCT.md). Creando un nuovo repository dichiari di accettare e di rispettare il nostro codice di condotta.
     - Assicurati di avere un file LICENSE che specifica la licenza del tuo repository. Cerca di usare licenze libere. I repository del FIUP senza licenze non sono da considerarsi software proprietario. Per ulteriori informazioni consulta la nostra [policy sulle licenze](#licenze-usate). 
-* Effettua le modifiche che ritieni necessarie al tuo repository, fai una commit e una push
+* Effettua le modifiche che ritieni necessarie al tuo repository, fai una commit e una push.
 * Complimenti, il tuo repository è impostato e fa ora parte del FIUP.
 #### Collaborare ad un repository esistente
 Quando intendi collaborare ad un progetto presente nell'organizzazione FIUP in Github, il modo migliore è:
@@ -175,7 +175,7 @@ Per contribuire al FIUP non è necessario essere programmatori esperti. Puoi con
 Uno stile del codice standard per molti progetti è essenziale. Per i progetti FIUP, _salvo quanto specificato nel file CONTRIBUTING dei singoli repository_, non si adotta uno stile standard. Questo permette a chiunque di partecipare liberamente senza troppi problemi.
 L'importante è che:
 
-* Il codice sia commentato (in italiano e/o in inglese). Il codice non commentato è scarsamente utile soprattutto se riguarda esercizi che hanno lo scopo di far capire i procedimenti svolti e le soluzioni adottate.
+* Il codice sia commentato (in italiano o in inglese). Il codice non commentato è scarsamente utile, soprattutto se riguarda esercizi che hanno lo scopo di far capire i procedimenti svolti e le soluzioni adottate.
 
 ### Stili della documentazione
 
