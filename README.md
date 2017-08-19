@@ -12,9 +12,10 @@ Here you can find all the [guidelines to contribute in FIUP related projects](ht
 
 Everyone can help our organization to be even better.
 
-1. Clone this repository (the better way is using [SSH](https://help.github.com/articles/connecting-to-github-with-ssh/)) with the command `git clone link_del_repository`.
-2. Add your changes
-3. [Submit a Pull Request](https://github.com/FIUP/Getting_Started/blob/master/CONTRIBUTING.md#pull-requests).
+1. Fork this repository in Github, by clicking the "Fork" button in the topright corner. 
+2. Clone this repository (the better way is using [SSH](https://help.github.com/articles/connecting-to-github-with-ssh/)) with the command `git clone link_del_repository`.
+3. Add your changes
+4. [Submit a Pull Request](https://github.com/FIUP/Getting_Started/blob/master/CONTRIBUTING.md#pull-requests).
 
 If the Pull Request will be accepted, your changes will be part of our project. Thanks for contributing.
 
