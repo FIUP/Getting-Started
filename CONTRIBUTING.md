@@ -71,9 +71,10 @@ Per creare un nuovo repository:
 #### Collaborare ad un repository esistente
 Quando intendi collaborare ad un progetto presente nell'organizzazione FIUP in Github, il modo migliore è:
 
-1. Individuare il repository corretto
-2. Clonare il repository, possibilemente via [SSH](https://help.github.com/articles/connecting-to-github-with-ssh/) usando il comando `git clone link_del_repository`
-3. Aggiungere le proprie modifiche
+1. Individuare il repository corretto.
+2. Fare un fork del repository, cliccando il pulsante "Fork" nell'angolo in alto a destra. 
+2. Clonare il repository forkato, possibilemente via [SSH](https://help.github.com/articles/connecting-to-github-with-ssh/) usando il comando `git clone link_del_repository_forkato`.
+3. Aggiungere le proprie modifiche.
 4. Inviare una [Pull Request](https://help.github.com/articles/about-pull-requests/) al repository originale.
 
 Se la Pull Request verrà accettata da un manutentore, il tutto andrà a buon fine e il contributo sarà aggiunto.
