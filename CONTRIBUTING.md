@@ -141,8 +141,8 @@ Non sai dove iniziare a contribuire al FIUP?
 
 Unsure where to begin contributing to Atom? Potresti iniziare dalle issue etichettate come `beginner` e/o `help-wanted`:
 
-* [Beginner issues][beginner] - issue che riguardano problemi semplici che richiedono un paio di linee di codice e un paio di test.
-* [Help wanted issues][help-wanted] - issues un po' più impegnative delle `beginner`.
+* **Beginner issues:** Issue che riguardano problemi semplici che richiedono un paio di linee di codice e un paio di test.
+* **[Help wanted issues:** Issues un po' più impegnative delle `beginner`.
 
 Entrambe le liste di issue sono ordinate in base al numero totale di commenti. Anche se non è perfetto, il numero di commenti è un misuratore ragionevole dell'impatto che una issue potrà avere.
 ### Pull Requests
@@ -157,7 +157,7 @@ Entrambe le liste di issue sono ordinate in base al numero totale di commenti. A
 Per contribuire al FIUP non è necessario essere programmatori esperti. Puoi contribuire in tanti altri modi ad esempio:
 
 * Aiutando gli utenti, rispondendo ai loro dubbi o domande sui [canali social](https://github.com/FIUP/Getting_Started/blob/master/FIUP_Rules.md#il-fiup-nei-social) in particolare su telegram e facebook.
-* Caricando appunti e altri file negli spazi cloud del FIUP, [rispettando le regole definite qui].(https://github.com/FIUP/Getting_Started/blob/master/MEGA_FAQ.md)
+* Caricando appunti e altri file negli spazi cloud del FIUP, [rispettando le regole definite qui](https://github.com/FIUP/Getting_Started/blob/master/MEGA_FAQ.md).
 * Partecipare alle attività offline del FIUP.
 * Proporre idee e suggerimenti all'indirizzo [fiup.unipd@gmail.com](mailto:fiup.unipd@gmail.com) o secondo le modalità indicate nella sezione [Suggerire miglioramenti](#suggerire-miglioramenti).
 * Candidarsi a manutentore dei repository, o per avere un ruolo attivo nella struttura del FIUP, compilando [questo form](http://fiup.space/collaboration/) o via mail all'indirizzo [fiup.unipd@gmail.com](mailto:fiup.unipd@gmail.com).
