@@ -89,6 +89,8 @@ Questo Codice di Condotta si applica sia negli spazi del progetto che negli ambi
 
 ## Applicazione 
 
+Segnalazioni inerenti abusi, molestie, o altri comportamenti inaccettabili possono essere riportate contattando il team del FIUP [fiup.unipd@gmail.com](mailto:fiup.unipd@gmail.com). Tutte le segnalazioni verranno revisionate e investigate e risulterà in una risposta adeguata alle circostanze. Il team è obbligato a mantenere il massimo riserbo circa chi segnala un incidente. Ulteriori dettagli o specifiche politiche di rinforzo possono essere pubblicate separatamente.
+
 I responsabili di progetto che non seguano o non applichino il Codice di Condotta in buona fede, possono affrontare ripercussioni temporanee o permanenti secondo quanto stabilito dagli altri membri della direzione del progetto
 
 ## Attribuzione
