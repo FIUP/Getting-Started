@@ -82,7 +82,7 @@ suggerimento per quanto riguarda il nostro corso di studi
 - [Rappresentanti degli studenti](https://bit.ly/RappresentantiInformaticaUniPD)
 
 - **Commercio Libri e Dispense**
-    - [Gruppo telegram dedicato]()
+    - [Gruppo telegram dedicato](https://telegram.me/FIUPBooks)
 
 - [Cambio password WiFi e Laboratori](https://bit.ly/CambioPasswordInformaticaUniPD)
 
@@ -109,6 +109,6 @@ Ci trovate su:
 - Telegram
     - [Canale](https://telegram.me/infofromfiup)
     - [Gruppo](https://telegram.me/FIUPd)
-    - [Gruppo Commercio Libri](https://telegram.me/FIUPd)
+    - [Gruppo Commercio Libri](https://telegram.me/FIUPBooks)
 
 [#ComputerScienceUnipd](https://twitter.com/hashtag/ComputerScienceUnipd) 
