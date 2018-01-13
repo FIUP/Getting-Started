@@ -1,8 +1,8 @@
 # CLOUD FAQ v. 3.5 (12-01-2018)
 
-- ***A che serve questo spazio cloud?*** Serve a condividere appunti, esami, esercizi ed idee tra studenti iscritti ai corsi di informatica delle lauree triennali e magistrali presso la Scuola di Scienze dell’Università degli Studi di Padova. Non è in alcun modo collegato con l’università ma è uno spazio gestito da studenti, per studenti. Lo spazio FIUP è uno spazio sociale ed è un servizio gratuito. 
+- ***A che serve questo spazio cloud?*** Serve a condividere appunti, esami, esercizi e idee tra studenti iscritti ai corsi di informatica delle lauree triennali e magistrali presso la Scuola di Scienze dell’Università degli Studi di Padova. Non è in alcun modo collegato con l’università ma è uno spazio gestito da studenti, per studenti. Lo spazio FIUP è uno spazio sociale ed è un servizio gratuito. 
 
-**NOTA:** _Non va utilizzato per condividere codice, per quello c'è l'[organizzazione su GitHub](https://github.com/FIUP/). Secondo le modalità [indicate qui](https://github.com/FIUP/Getting_Started/blob/master/CONTRIBUTING.md)._
+**NOTA:** _Non va utilizzato per condividere codice, per quello c'è l'[organizzazione su GitHub](https://github.com/FIUP/). Secondo le  [linee guida per contribuire](https://github.com/FIUP/Getting_Started/blob/master/CONTRIBUTING.md)._
 
 - ***Che vuol dire spazio sociale?*** Si tratta di un servizio completamente gratuito gestito da volontari e aperto a tutti. Chiunque può contribuire caricando materiale, in modo che questo spazio possa restare utile e costantemente aggiornato. Non siate timidi, condividete risorse non presenti che ritenete possano interessare tutti, come  appunti, esercizi, esami e quant'altro. Utilizzandolo, dichiarate di accettare ed aderire al nostro [Codice di condotta](https://github.com/FIUP/Getting-Started/blob/master/CODE_OF_CONDUCT.md).
 
@@ -14,7 +14,7 @@
 	3. Postando un commento nel gruppo [Facebook](https://www.facebook.com/groups/fiupd) o [Telegram](t.me/fiupd)
 	4. Via DM su twitter (@fiupd).
 
-	Se non vuoi che la tua mail sia in balia a tutti, evita di postare il tuo indirizzo email nei gruppi ed usa le altre modalità. Gli indirizzi postati nei gruppi, verranno rimossi subito dopo averti dato accesso allo spazio. Se vedi il tuo commento ancora online e sai di aver ottenuto l’accesso, rimuovilo tu stesso.
+	Se non vuoi che la tua mail sia in balia di tutti, evita di postare il tuo indirizzo email nei gruppi ed usa le altre modalità. Gli indirizzi postati nei gruppi, verranno rimossi subito dopo averti dato accesso allo spazio. Se vedi il tuo commento ancora online e sai di aver ottenuto l’accesso, rimuovilo tu stesso.
 	L’accesso alla cartella con il materiale della laurea triennale in automatico garantisce l’accesso anche al materiale della magistrale, e viceversa. Sia in lettura che in scrittura.
 	
 - ***Quali sono i privilegi disponibili in MEGA?*** Vi sono 4 livelli di privilegi, ottenibili da chiunque:
@@ -77,4 +77,4 @@ A tutti capita di sbagliare, se ti accorgi dell'errore segnalalo alla mail del g
 
 - ***Esistono dei client per MEGA?*** Si, esistono ma non sono molto affidabili, ne sconsigliamo pertanto l'uso.
 	
-- ***Perché MEGA e non un altro servizio?*** Prima di MEGA, usavamo dropbox. ma i file spesso venivano eliminati per sbaglio (non sempre erano ripristinabili) oppure tentando il ripristino si creavano doppioni in un ciclo elimina/ripristina senza fine. Dropbox offre solo 2 giga di spazio gratuito (salvo promozioni), su MEGA lo spazio gratuito ammonta a 15 GB quota base + 35 GB = 50 GB. MEGA permette l’encrypting dei dati, un eliminazione degli stessi in due passaggi oltre che tre livelli di privilegi. MEGA non è pensato per la gestione del codice, per il codice è più adatto un sistema di versionamento come git.
+- ***Perché MEGA e non un altro servizio?*** Prima di MEGA, usavamo dropbox. ma i file spesso venivano eliminati per sbaglio (non sempre erano ripristinabili) oppure tentando il ripristino si creavano doppioni in un ciclo elimina/ripristina senza fine. Dropbox offre solo 2 giga di spazio gratuito (salvo promozioni), su MEGA lo spazio gratuito ammonta a 15 GB. MEGA permette l’encrypting dei dati, un eliminazione degli stessi in due passaggi oltre che tre livelli di privilegi. MEGA non è pensato per la gestione del codice, per il codice è più adatto un sistema di versionamento come git.
