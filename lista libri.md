@@ -29,7 +29,7 @@ Applied Combinatorics, Alan Tucker, Wiley and Sons
 
 ### ANALISI MATEMATICA
  - Dispense fornite gratuitamente dal docente
- - Analisi matematica, Michiel Bertsch, Roberta Dal Passo, Lorenzo Giacomelli, McGraw-Hill (consigliato)
+ - Fondamenti di Analisi Matematica, Bergamaschi, Libreria Progetto Padova, 2017.
 
 ### ARCHITETTURA DEGLI ELABORATORI
  - Architettura e organizzazione dei calcolatori, William Stallings, Pearson Education
