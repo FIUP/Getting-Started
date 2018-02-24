@@ -55,7 +55,7 @@ This Code of Conduct is adapted from the [Contributor Covenant][homepage], versi
 ## Il nostro impegno
 
 
-Al fine di promuovere un ambiente aperto ed accogliente, come contributori e mantenitori, siamo impegnati per far si che la partecipazione al nostro progetto e alla nostra comunità sia un'esperienza aperta a tutti, senza molestie e fastidi, indipendentemente dall'età, dalla costituzione corporea, dalla disabilità, dall'etnia, dall'identità e dall'espressione di genere, dal ivello di esperienza, nazionalità, aspetto personale, razza, religione, identità e orientamento sessuale.
+Al fine di promuovere un ambiente aperto ed accogliente, come contributori e mantenitori, siamo impegnati per far sì che la partecipazione al nostro progetto e alla nostra comunità sia un'esperienza aperta a tutti, senza molestie e fastidi, indipendentemente dall'età, dalla costituzione corporea, dalla disabilità, dall'etnia, dall'identità e dall'espressione di genere, dal livello di esperienza, nazionalità, aspetto personale, razza, religione, identità e orientamento sessuale.
 
 ## I nostri standard
 
@@ -74,12 +74,12 @@ Esempi di comportamenti inaccettabili dei partecipanti includono:
 * Attacchi personali o basati su motivazioni politiche
 * Essere un troll 
 * Molestie e fastidi pubblici e privati
-* La pubblicazione di informazioni private di altri membri della comunità, come ad esempio. l'indirizzo fisico o elettronico, senza esplicito permesso 
+* La pubblicazione di informazioni private di altri membri della comunità, come ad esempio l'indirizzo fisico o elettronico, senza esplicito permesso 
 * Qualsiasi altra condotta che possa essere ragionevolmente considerata inappropriata in un contesto professionale
 
 ## Le nostre responsabilità
 
-I mantenitori di progetto sono responsabili di chiarire gli standard sui comportamenti accetabili e sono tenuti a prendere le eque ed appropriate azioni correttive in risposta a qualsiasi comportamento inaccettabile.
+I mantenitori di progetto sono responsabili di chiarire gli standard sui comportamenti accettabili e sono tenuti a prendere le eque ed appropriate azioni correttive in risposta a qualsiasi comportamento inaccettabile.
 
 I mantenitori di progetto hanno il diritto e la responsabilità di rimuovere, modificare, rifiutare commenti, commits, codice, issues, modifiche alle wiki, e altri contributi non in linea con questo Codice di Condotta, o di bannare temporaneamente o permanentemente qualsiasi contributore per altri comportamenti giudicati inappropriati, offensivi, minacciosi o dannosi.
 
@@ -89,7 +89,7 @@ Questo Codice di Condotta si applica sia negli spazi del progetto che negli ambi
 
 ## Applicazione 
 
-Segnalazioni inerenti abusi, molestie, o altri comportamenti inaccettabili possono essere riportate contattando il team del FIUP [fiup.unipd@gmail.com](mailto:fiup.unipd@gmail.com). Tutte le segnalazioni verranno revisionate e investigate e risulterà in una risposta adeguata alle circostanze. Il team è obbligato a mantenere il massimo riserbo circa chi segnala un incidente. Ulteriori dettagli o specifiche politiche di rinforzo possono essere pubblicate separatamente.
+Segnalazioni inerenti abusi, molestie, o altri comportamenti inaccettabili possono essere riportate contattando il team del FIUP [fiup.unipd@gmail.com](mailto:fiup.unipd@gmail.com). Tutte le segnalazioni verranno revisionate ed investigate e risulterà in una risposta adeguata alle circostanze. Il team è obbligato a mantenere il massimo riserbo circa chi segnala un incidente. Ulteriori dettagli o specifiche politiche di rinforzo possono essere pubblicate separatamente.
 
 I responsabili di progetto che non seguano o non applichino il Codice di Condotta in buona fede, possono affrontare ripercussioni temporanee o permanenti secondo quanto stabilito dagli altri membri della direzione del progetto
 
