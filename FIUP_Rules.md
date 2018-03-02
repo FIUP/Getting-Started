@@ -52,7 +52,7 @@ Se **cercate** un libro da acquistare, postate un messaggio con l'hashtag #cerco
 
 >  #cerco #calcolo Quaderno matlab
 
-Una volta trovato o venduto, rimuovete i relativi messaggi. In modo da tenere la lista sempre aggiornata e pulita. Cliccando sugli hashtag vendo / cerco o su quelli delle materie sarà facile ottenere le liste chi vende o cerca.
+Una volta trovato o venduto, rimuovete i relativi messaggi, in modo da tenere la lista sempre aggiornata e pulita. Cliccando sugli hashtag vendo / cerco o su quelli delle materie sarà facile ottenere le liste chi vende o cerca.
 
 E' possibile anche vendere / regalare dispense con le stesse modalita' dei libri, usando gli hashtag #dispensa #cedo.
 
@@ -77,7 +77,8 @@ suggerimento per quanto riguarda il nostro corso di studi
 
 - [Orario delle lezioni](http://bit.ly/2Fb7a16)
 - **Informazioni Esami**
-  - [Sito del nostro corso](https://bit.ly/InfoEsamiInformaticaUniPD)
+  - [Sito del corso esami Triennale](https://bit.ly/InfoEsamiLT)
+  - [Sito del corso esami Magistrale](https://bit.ly/InfoEsamiLM)
 
 
 - [Rappresentanti degli studenti](https://bit.ly/RappresentantiInformaticaUniPD)
@@ -86,22 +87,18 @@ suggerimento per quanto riguarda il nostro corso di studi
 - **Commercio Libri e Dispense**
   - [Gruppo telegram dedicato](https://telegram.me/FIUPBooks)
 
-
 - [Cambio password WiFi e Laboratori](https://bit.ly/CambioPasswordInformaticaUniPD)
 
 - [Moodle](http://bit.ly/2oyBuZ4)
 
 - [Occupazione Aule](https://bit.ly/OccupazioneAuleInformaticaUniPD)
 
-<!-- - [Aule per Esami](https://bit.ly/AuleEsamiInformaticaUniPD) -->
 
 - **Informazioni dai Tutor**
-    - [Gruppo Facebook](https://bit.ly/GruppoTutorInformaticaUniPD)
+- [Gruppo Facebook](https://bit.ly/GruppoTutorInformaticaUniPD)
+- [E-Learning Ufficiale](https://bit.ly/InfoTutorInformaticaUniPD)
 
-<!--    - [Pagina Facebook](https://www.facebook.com/tutorinformaticaunipd) -->
-<!--    - [E-learning ufficiale](https://bit.ly/InfoTutorInformaticaUniPD) -->
-
-- [Documenti](http://bit.ly/DocumentiInformaticaUniPD)
+- [Documenti](http://bit.ly/DocumentiInformaticaUniPD) (I verbali del CCS sono attualmente protetti da password, per prenderne visione contattare la segreteria didattica in TA)
 
 ***
 
@@ -127,7 +124,6 @@ Ci trovate su:
   - [Tecnologie Web](https://t.me/joinchat/AlFSeEXIue0B_o1rDVSZKg)
 
 **Nota bene**: come potete vedere, non sono presenti gruppi di ogni singolo corso.
-Chiunque può contribuire creando un nuovo gruppo dedicato al corso di suo interesse, qualora mancasse, comunicandolo
-in uno dei vari canali di comunicazione messi a disposizione. Ovviamente, il regolamento del FIUP va rispettato in ogni singolo gruppo.
+Chiunque può contribuire creando un nuovo gruppo dedicato al corso di suo interesse, qualora mancasse, comunicandolo in uno dei vari canali di comunicazione messi a disposizione. Ovviamente, il regolamento del FIUP va rispettato in ogni singolo gruppo.
 
 [#ComputerScienceUnipd](https://twitter.com/hashtag/ComputerScienceUnipd)
