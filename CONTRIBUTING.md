@@ -4,7 +4,7 @@
 
 Le seguenti sono delle regole e delle linee guida per contribuire al FIUP e ai progetti correlati, ospitati nell'[Organizzazione FIUP](https://github.com/fiup) su GitHub.
 
-Queste regole comuni vengono applicate per ciascun repository dell'organizzazione ma possono essere facilmente estese o adattate al singolo. Assicurati sempre di dare un'occhiata al file CONTRIBUTNG.md del singolo repository, in quanto potrebbe includere informazioni aggiuntive.
+Queste regole comuni vengono applicate per ciascun repository dell'organizzazione ma possono essere facilmente estese o adattate al singolo. Assicurati sempre di dare un'occhiata al file CONTRIBUTING.md del singolo repository, in quanto potrebbe includere informazioni aggiuntive.
 
 Se avete suggerimenti su come migliorare queste norme e le linee guida associate, sentitevi liberi di proporre cambiamenti a questo documento tramite pull request. 
 
@@ -35,8 +35,8 @@ Se avete suggerimenti su come migliorare queste norme e le linee guida associate
 
 ## FIUP 
 
-Il FIUP (Futuri Informatici dell'Universita' di Padova) è un'organizzazione senza scopo di lucro aperta a studenti, docenti e personale dei corsi di Laurea Triennale e Magistrale in Informatica
-presso la Scuola di Scienze dell'[Universita' degli Studi di Padova](https://www.unipd.it/). 
+Il FIUP (Futuri Informatici dell'Università di Padova) è un'organizzazione senza scopo di lucro aperta a studenti, docenti e personale dei corsi di Laurea Triennale e Magistrale in Informatica
+presso la Scuola di Scienze dell'[Università degli Studi di Padova](https://www.unipd.it/). 
 Al momento è solo un'organizzazione gestita prevalentemente da studenti volontari, non è un'associazione ufficialmente riconosciuta dall'università.
 
 ## Codice di Condotta
@@ -64,7 +64,7 @@ Per creare un nuovo repository:
     - Imposta un README, puoi usare il [README template](https://github.com/fiup/Getting_Started/docs/README_TEMPLATE.md).
     - E' sconsigliato modificare i file [ISSUE_TEMPLATE](https://github.com/FIUP/Getting_Started/blob/master/docs/ISSUE_TEMPLATE.md) e [PULL_REQUEST_TEMPLATE](https://github.com/FIUP/Getting_Started/blob/master/docs/PULL_REQUEST_TEMPLATE.md) in quanto potrebbero entrare in conflitto con le linee guida generali per contribuire.
     - Imposta il file CONTRIBUTING con le linee guida specifiche per contribuire al tuo repository, adattando il [CONTRIBUTING template](https://github.com/fiup/Getting_Started/docs/CONTRIBUTING_TEMPLATE.md).
-    - Assicurati che nei file README e CONTRIBUTIG sia presente un link al nostro [Code of Conduct](https://github.com/FIUP/Getting_Started/blob/master/CODE_OF_CONDUCT.md). Creando un nuovo repository dichiari di accettare e di rispettare il nostro codice di condotta.
+    - Assicurati che nei file README e CONTRIBUTING sia presente un link al nostro [Code of Conduct](https://github.com/FIUP/Getting_Started/blob/master/CODE_OF_CONDUCT.md). Creando un nuovo repository dichiari di accettare e di rispettare il nostro codice di condotta.
     - Assicurati di avere un file LICENSE che specifica la licenza del tuo repository. Cerca di usare licenze libere. I repository del FIUP senza licenze non sono da considerarsi software proprietario. Per ulteriori informazioni consulta la nostra [policy sulle licenze](#licenze-usate). 
 * Effettua le modifiche che ritieni necessarie al tuo repository, fai una commit e una push.
 * Complimenti, il tuo repository è impostato e fa ora parte del FIUP.
@@ -101,7 +101,7 @@ Esponi il problema e includi il maggior numero di dettagli in modo da aiutare i 
 Quando spieghi i passi, **non dire solo cosa hai fatto, ma spiega come lo hai fatto**. Per esempio, se hai compilato un sorgente LaTeX, spiega se hai usato uno script o un IDE.
 
 * **Fornisci esempi espliciti per riprodurre i passi**.
-Puoi includere link a file o a progetti su GitHub, o copia incollare parti di codice in questi esempi. Se includi spezzoni di codice nelle issuem usa [i blocchi di codice in Markdown](https://help.github.com/articles/markdown-basics/#multiple-lines).
+Puoi includere link a file o a progetti su GitHub, o copia incollare parti di codice in questi esempi. Se includi spezzoni di codice nelle issues usa [i blocchi di codice in Markdown](https://help.github.com/articles/markdown-basics/#multiple-lines).
 
 * **Descrivi il comportamento osservato dopo aver seguito i passi** specifica esattamente qual è il problema e il suo comportamento.
 
@@ -199,7 +199,7 @@ Per favore, apri una issue in `fiup/Getting_Started` se hai suggerimenti per nuo
 
 | Nome dell'etichetta |  Descrizione |
 | --- | --- |
-| `beginner`  | Issue poco complese adatte a chi contribuisce per le prime volte al FIUP. |
+| `beginner`  | Issue poco complesse adatte a chi contribuisce per le prime volte al FIUP. |
 | `blocked`  | Issue bloccate da altre issue. |
 | `bug`| Bug noti o segnalazioni circa possibili bug. |
 | `duplicate` | Issue che sono duplicati di altre, già create in precedenza. |
@@ -239,7 +239,7 @@ Per favore, apri una issue in `fiup/Getting_Started` se hai suggerimenti per nuo
 | `needs-testing` | Pull request che richiedono test manuali.|
 
 ### Licenze usate
-Tutto il materiale caricato sugli spazi FIUP, se non esplicitamente rilasciato dall'utente allgando una specifica licenza, è da intendersi rilasciato sotto licenze [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) se si tratta di appunti, esercitazioni, e opere per i quali l’utente che carica dispone dei diritti. Per il codice, salvo quanto diversamente indicato, si intende interamente rilasciato sotto licenza [GPLv3](http://katolaz.homeunix.net/gplv3/).
+Tutto il materiale caricato sugli spazi FIUP, se non esplicitamente rilasciato dall'utente allegando una specifica licenza, è da intendersi rilasciato sotto licenze [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) se si tratta di appunti, esercitazioni, e opere per i quali l’utente che carica dispone dei diritti. Per il codice, salvo quanto diversamente indicato, si intende interamente rilasciato sotto licenza [GPLv3](http://katolaz.homeunix.net/gplv3/).
 
 E’ possibile condividere materiale e codice usando licenze differenti, purché l'utente includa un file "LICENSE" riportante la licenza che desidera utilizzare oppure includa nel materiale stesso dei riferimenti alla licenza stessa. Per incentivare la condivisione e un miglioramento continuo è consigliato evitare licenze chiuse e proprietarie.
 

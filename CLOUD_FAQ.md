@@ -36,7 +36,7 @@ Per cambiare i tuoi permessi comunica la mail (con la quale sei iscritto) motiva
 - ***Son stato aggiunto/a ma non riesco ad accedere o a vedere la cartella.*** 
 	Segui i seguenti passi:
 	1. Fai un logout da MEGA.
-	2. Pulisci la cache del browser (manualmente tramite Menu
+	2. Pulisci la cache del browser (manualmente tramite Menù
 		(Settings - More tools - Clear Browsing data (in Chrome) o 
 		Firefox - Preferences - Advanced Network in Firefox ) o tramite un apposito software di pulizia.
 	3. Puoi pulire la cache usando le seguenti scorciatoie: cmd + shift + del (su mac) o ctrl + shift + del (windows/linux).
@@ -74,7 +74,7 @@ A tutti capita di sbagliare, se ti accorgi dell'errore segnalalo alla mail del g
 * E’ contro i termini di utilizzo del servizio, quindi ogni file che violi i termini di servizio verrà eliminato dal gestore dello spazio cloud
 
 	Nel caso qualcuno caricasse file in contrasto con i termini di servizio del sito usato come riferimento o con la normativa in merito della tutela del diritto d’autore se ne assume la responsabilità. Il gruppo FIUP, chi detiene i privilegi in Full Access, chi amministra l’account ed eventuali altri utenti diversi all'uploader non sono responsabili e non devono essere ritenuti tali a causa di chi usa il servizio in modo scorretto.
-	Se sei sicuro/a di poter caricare un pdf, un testo o altro materiale fallo liberamente, se hai dubbi, prima di procedere, contatta un amministratore. In ogni caso non caricare materiale protetto da diritto d’autore, a meno che non sia tu stesso ad averne i diritti.
+	Se sei sicuro/a di poter caricare un PDF, un testo o altro materiale fallo liberamente, se hai dubbi, prima di procedere, contatta un amministratore. In ogni caso non caricare materiale protetto da diritto d’autore, a meno che non sia tu stesso ad averne i diritti.
 	
 - ***Quali licenze usiamo? E’ possibile caricare materiale usando licenze differenti?*** Certo, è possibile, è tutto spiegato in dettaglio nel nostro file CONTRIBUTING nella sezione [Licenze usate](https://github.com/FIUP/Getting_Started/blob/master/CONTRIBUTING.md#licenze-usate).
 

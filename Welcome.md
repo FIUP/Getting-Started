@@ -1,4 +1,4 @@
-# Guida Galattica Computer Science UniPD v. 0.4
+# Guida Galattica Computer Science UNIPD v. 0.4
 
 ## Introduzione
 
@@ -102,7 +102,7 @@ Per completezza d'informazione qui sotto sono elencanti anche software proprieta
 - E' possibile ottenere una licenza gratuita per **Matlab** [MATLAB | CSIA](https://www.csia.unipd.it/servizi/servizi-utenti-istituzionali/contratti-software-e-licenze/matlab)
 - Iscrivendosi a **GitHub** è possibile accedere ad infiniti repository gratuiti privati e pubblici (utilissimi nei vari corsi di programmazione), oltre che a molte risorse utili per lo sviluppo software. Link per l'iscrizione: [GitHub Student Pack](https://education.github.com/discount_requests/new).
 - Link per ottenere software **JetBrains** in maniera gratuita: [IntelliJ gratis per studenti](https://www.jetbrains.com/student/).
-  Facciamo comunque notare che la versione gratuita *Community* basta per il corso di *Programmazione concorrente e distribuita* del terzo anno, senza contare il fatto che è possibile utilizzare anche l'IDE *Elipse*.
+  Facciamo comunque notare che la versione gratuita *Community* basta per il corso di *Programmazione concorrente e distribuita* del terzo anno, senza contare il fatto che è possibile utilizzare anche l'IDE *Eclipse*.
 - Link per l'ottenimento della licenza gratuita di **Astah Professional**, un utilissimo software per realizzare grafici in UML: [Astah License Request](http://astah.net/student-license-request)
 
 ***
@@ -116,7 +116,7 @@ Ai seguenti link potrete trovare qualche informazione in più.
 * Playlist di tutorial LaTeX su Youtube, in inglese: [LaTeX Tutorials](http://www.youtube.com/playlist?list=PL1D4EAB31D3EBC449) 
 * Introduzione online gratis a LaTeX, in inglese: [Free & Interactive Online Introduction to LaTeX](https://www.overleaf.com/latex/learn/free-online-introduction-to-latex-part-1)
 * Link alla pagina Wiki su come strutturare un documento LaTeX, in inglese: [LaTeX Document Structure](https://en.wikibooks.org/wiki/LaTeX/Document_Structure)
-* Pdf in italiano: [L'arte di scrivere con LaTeX](http://www.lorenzopantieri.net/LaTeX.html)
+* PDF in italiano: [L'arte di scrivere con LaTeX](http://www.lorenzopantieri.net/LaTeX.html)
 
 **Git e GitHub**
 * [Tutorial interattivo su Git](https://www.codeschool.com/courses/try-git)
@@ -181,7 +181,7 @@ Certamente, ecco tutti i link utili:
     - [Canale Telegram del FIUP](https://telegram.me/infofromfiup)
     - [Gruppo Telegram del FIUP](https://telegram.me/FIUPd)
 
-Esistono moltre altre pagine utili sui social, impossibili da elencare tutte, a voi scoprirle.
+Esistono molte altre pagine utili sui social, impossibili da elencare tutte, a voi scoprirle.
 Infine, ricordiamo che tutto ciò che può esservi utile può essere trovato nella descrizione del gruppo facebook, sulla destra, premendo su “Altro”.
 
 ***

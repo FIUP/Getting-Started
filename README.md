@@ -6,14 +6,14 @@ All about FIUP. This is the right place to find information and understand how t
 
 First of all respect everyone, if you want to contribute in one or more of our projects you must respect our [Code of Conduct](https://github.com/FIUP/Getting_Started/blob/master/CODE_OF_CONDUCT.md).
 
-Here you can find all the [guidelines to contribute in FIUP related projects](https://github.com/FIUP/Getting_Started/blob/master/CONTRIBUTING.md) (in italian).
+Here you can find all the [guidelines to contribute in FIUP related projects](https://github.com/FIUP/Getting_Started/blob/master/CONTRIBUTING.md) (in Italian).
 
 ### The easy steps to contribute to this repository
 
 Everyone can help our organization to be even better.
 
 1. Fork this repository in Github, by clicking the "Fork" button in the topright corner. 
-2. Clone this repository (the better way is using [SSH](https://help.github.com/articles/connecting-to-github-with-ssh/)) with the command `git clone link_del_repository`.
+2. Clone this repository (the better way is using [SSH](https://help.github.com/articles/connecting-to-github-with-ssh/)) with the command `git clone link_of_the_repository`.
 3. Add your changes
 4. [Submit a Pull Request](https://github.com/FIUP/Getting_Started/blob/master/CONTRIBUTING.md#pull-requests).
 
