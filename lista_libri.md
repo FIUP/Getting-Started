@@ -10,10 +10,10 @@ Prima di acquistare libri, fate sempre riferimento ai docenti e ai volumi consig
 
 ## Indice
 0. [Indice](#indice)
-1. [Laurea Triennale](#laurea-triennale)  
+1. [Laurea Triennale](#laurea-triennale)
 
     - [Primo Anno](#primo-anno)
-    - [Secondo Anno](#seocndo-anno)
+    - [Secondo Anno](#secondo-anno)
     - [Terzo Anno](#terzo-anno)
 
 5. [Laurea Magistrale](#laurea-magistrale)
@@ -78,7 +78,7 @@ Applied Combinatorics, Alan Tucker, Wiley and Sons
 - [Guide to the Software Engineering Body of Knowledge](http://www.math.unipd.it/~tullio/IS-1/2007/Approfondimenti/SWEBOK.pdf), IEEE Computer Society. Software Engineering Coordinating Committee, V3 2014.
 - Software Engineering (10th edition), Ian Sommerville, Pearson Education | Addison-Wesley, 2015 (consigliato).
 - Design Patterns, E. Gamma, R. Helm, R. Johnson, J. Vlissides, Pearson Education | Addison-Weasley, 2002 (consigliato).
-- Dall'idea al codice con UML 2, L. Baresi, L. Lavazz, M. Pianciamore, Pearson Education, 2006 (consigliato).
+- Dall'idea al codice con UML 2, L. Baresi, L. Lavazza, M. Pianciamore, Pearson Education, 2006 (consigliato).
 
 ### TECNOLOGIE WEB
 - Slides e materiale disponibili nel [Moodle](https://elearning.unipd.it/math/course/view.php?id=232) del corso.

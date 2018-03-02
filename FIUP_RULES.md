@@ -1,13 +1,13 @@
 # FIUP
-**Futuri Informatici dell'Universita' di Padova.**
+**Futuri Informatici dell'Università di Padova.**
 
-Il gruppo e' liberamente accessibile a studenti, docenti e personale dei corsi di [Laurea Triennale](http://informatica.math.unipd.it/laurea/index.html), [Magistrale](http://informatica.math.unipd.it/laureamagistrale/index.html) e [dottorato](http://informatica.math.unipd.it/dottorato/index.html) in Informatica, presso la [Scuola di Scienze](http://www.scienze.unipd.it/) dell'[Universita' degli Studi di Padova](http://www.unipd.it).
+Il gruppo e' liberamente accessibile a studenti, docenti e personale dei corsi di [Laurea Triennale](http://informatica.math.unipd.it/laurea/index.html), [Magistrale](http://informatica.math.unipd.it/laureamagistrale/index.html) e [dottorato](http://informatica.math.unipd.it/dottorato/index.html) in Informatica, presso la [Scuola di Scienze](http://www.scienze.unipd.it/) dell'[Università degli Studi di Padova](http://www.unipd.it).
 
 ***
 
 ## Indice
 0. [Indice](#indice)
-1. [Regolamento generale](#regolamento-generale)  
+1. [Regolamento generale](#regolamento-generale)
 2. [Commercio Libri](#commercio-libri)
 3. [Link utili](#link-utili)
 4. [Il FIUP nei social](#il-fiup-nei-social)
@@ -21,7 +21,7 @@ I seguenti punti di questa sezione si applicano a tutti gli spazi online del FIU
 1. I commenti non sono controllati ne' approvati da parte degli admin del gruppo.
 
 2. Valgono le solite [regole da forum](http://it.wikipedia.org/wiki/Netiquette)
-Ognuno si assume la responsabilita' di quanto scritto, non sono tollerati insulti, offese, bestemmie, minacce, pornografia, attacchi personali, etc.
+Ognuno si assume la responsabilità di quanto scritto, non sono tollerati insulti, offese, bestemmie, minacce, pornografia, attacchi personali, etc.
 Post del genere verranno rimossi e possono comportare un ban. Qualsiasi utente del FIUP è tenuto ad accettare e a rispettare il [Codice di Condotta](https://github.com/FIUP/Getting_Started/blob/master/CODE_OF_CONDUCT.md).
 
 3. Per le offerte di lavoro il posto ideale e' il gruppo facebook del [PiP](https://www.facebook.com/groups/programmersinpadua/) a meno che non siano proposte rivolte prevalentemente ad universitari.
@@ -29,12 +29,12 @@ In questo caso usate i tag \[OT] o [LAVORO]\.
 
 4. Per commerciare libri di testo usati, va usato il [gruppo telegram apposito](https://telegram.me/FIUPBooks) rispettando il regolamento descritto nella sezione [Commercio Libri](#commercio-libri).
 
-5. Sugli spazi cloud non e' possibile caricare alcun testo protetto da diritti d'autore. Il gruppo (e chi lo gestisce) non si assume nessuna responsabilita' eventualmente ce ne fossero.
+5. Sugli spazi cloud non e' possibile caricare alcun testo protetto da diritti d'autore. Il gruppo (e chi lo gestisce) non si assume nessuna responsabilità eventualmente ce ne fossero.
 
 6. E' preferibile caricare e condividere materiale usando formati aperti e standard.
 Salvo diversa ed esplicita indicazione, tutti i contenuti sono da intendersi condivisi con licenze [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) e [GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html). Ulteriori informazioni sulle [licenze usate](https://github.com/FIUP/Getting_Started/blob/master/CONTRIBUTING.md#licenze-usate).
 
-7. Per suggerimenti,problemi o per mettersi in gioco, contattate un [admin](https://facebook.com/groups/fiupd/admins), inviate una mail (fiup.unipd *at* gmail *dot* com), o consultate le [linee guida per contribuire](https://github.com/FIUP/Getting_Started/blob/master/CONTRIBUTING.md#come-posso-contribuire).
+7. Per suggerimenti,problemi o per mettersi in gioco, contattate un [admin](https://facebook.com/groups/fiupd/admins), inviate una mail all'indirizzo [fiup.unipd@gmail.com](mailto:fiup.unipd@gmail.com), o consultate le [linee guida per contribuire](https://github.com/FIUP/Getting_Started/blob/master/CONTRIBUTING.md#come-posso-contribuire).
 
 > *L'amicizia e' d'aiuto ai giovani perche' non commettano errori* > - Aristotele, Etica Nicomachea
 
@@ -52,9 +52,9 @@ Se **cercate** un libro da acquistare, postate un messaggio con l'hashtag #cerco
 
 >  #cerco #calcolo Quaderno matlab
 
-Una volta trovato o venduto, rimuovete i relativi messaggi. In modo da tenere la lista sempre aggiornata e pulita. Cliccando sugli hashtag vendo / cerco o su quelli delle materie sarà facile ottenere le liste chi vende o cerca.
+Una volta trovato o venduto, rimuovete i relativi messaggi, in modo da tenere la lista sempre aggiornata e pulita. Cliccando sugli hashtag vendo / cerco o su quelli delle materie sarà facile ottenere le liste chi vende o cerca.
 
-E' possibile anche vendere / regalare dispense con le stesse modalita' dei libri, usando gli hashtag #dispensa #cedo.
+E' possibile anche vendere / regalare dispense con le stesse modalità dei libri, usando gli hashtag #dispensa #cedo.
 
 Vendere libri (o dispense) interamente fotocopiati, in barba al diritto d'autore, e' illegale, quindi non cercate di venderli all'interno del gruppo. Al limite affrontate la questione in privato.
 
@@ -77,7 +77,8 @@ suggerimento per quanto riguarda il nostro corso di studi
 
 - [Orario delle lezioni](http://bit.ly/2Fb7a16)
 - **Informazioni Esami**
-  - [Sito del nostro corso](https://bit.ly/InfoEsamiInformaticaUniPD)
+  - [Sito del corso esami Triennale](https://bit.ly/InfoEsamiLT)
+  - [Sito del corso esami Magistrale](https://bit.ly/InfoEsamiLM)
 
 
 - [Rappresentanti degli studenti](https://bit.ly/RappresentantiInformaticaUniPD)
@@ -86,22 +87,18 @@ suggerimento per quanto riguarda il nostro corso di studi
 - **Commercio Libri e Dispense**
   - [Gruppo telegram dedicato](https://telegram.me/FIUPBooks)
 
-
 - [Cambio password WiFi e Laboratori](https://bit.ly/CambioPasswordInformaticaUniPD)
 
 - [Moodle](http://bit.ly/2oyBuZ4)
 
 - [Occupazione Aule](https://bit.ly/OccupazioneAuleInformaticaUniPD)
 
-<!-- - [Aule per Esami](https://bit.ly/AuleEsamiInformaticaUniPD) -->
 
 - **Informazioni dai Tutor**
-    - [Gruppo Facebook](https://bit.ly/GruppoTutorInformaticaUniPD)
+- [Gruppo Facebook](https://bit.ly/GruppoTutorInformaticaUniPD)
+- [E-Learning Ufficiale](https://bit.ly/InfoTutorInformaticaUniPD)
 
-<!--    - [Pagina Facebook](https://www.facebook.com/tutorinformaticaunipd) -->
-<!--    - [E-learning ufficiale](https://bit.ly/InfoTutorInformaticaUniPD) -->
-
-- [Documenti](http://bit.ly/DocumentiInformaticaUniPD)
+- [Documenti](http://bit.ly/DocumentiInformaticaUniPD) (I verbali del CCS sono attualmente protetti da password, per prenderne visione contattare la segreteria didattica in TA)
 
 ***
 
@@ -127,7 +124,6 @@ Ci trovate su:
   - [Tecnologie Web](https://t.me/joinchat/AlFSeEXIue0B_o1rDVSZKg)
 
 **Nota bene**: come potete vedere, non sono presenti gruppi di ogni singolo corso.
-Chiunque può contribuire creando un nuovo gruppo dedicato al corso di suo interesse, qualora mancasse, comunicandolo
-in uno dei vari canali di comunicazione messi a disposizione. Ovviamente, il regolamento del FIUP va rispettato in ogni singolo gruppo.
+Chiunque può contribuire creando un nuovo gruppo dedicato al corso di suo interesse, qualora mancasse, comunicandolo in uno dei vari canali di comunicazione messi a disposizione. Ovviamente, il regolamento del FIUP va rispettato in ogni singolo gruppo.
 
 [#ComputerScienceUnipd](https://twitter.com/hashtag/ComputerScienceUnipd)

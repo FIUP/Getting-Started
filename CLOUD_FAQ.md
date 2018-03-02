@@ -6,16 +6,20 @@
 
 - ***Che vuol dire spazio sociale?*** Si tratta di un servizio completamente gratuito gestito da volontari e aperto a tutti. Chiunque può contribuire caricando materiale, in modo che questo spazio possa restare utile e costantemente aggiornato. Non siate timidi, condividete risorse non presenti che ritenete possano interessare tutti, come  appunti, esercizi, esami e quant'altro. Utilizzandolo, dichiarate di accettare ed aderire al nostro [Codice di condotta](https://github.com/FIUP/Getting-Started/blob/master/CODE_OF_CONDUCT.md).
 
-- ***In quali altri modi posso contribuire al FIUP?*** Puoi contribuire in molti modi, alcuni dei quali sono riepilogati nelle [Linee guida per contribuire] (https://github.com/FIUP/Getting-Started/blob/master/CONTRIBUTING.md#altri-tipi-di-contributo).
+- ***In quali altri modi posso contribuire al FIUP?*** Puoi contribuire in molti modi, alcuni dei quali sono riepilogati nelle [Linee guida per contribuire](https://github.com/FIUP/Getting-Started/blob/master/CONTRIBUTING.md#altri-tipi-di-contributo).
 
-- ***Come faccio ad iscrivermi o a cambiare i miei privilegi?*** Devi prima di tutto registrarti [al servizio cloud](https://mega.nz/) con un tuo indirizzo email . Successivamente basta che ci lasci la mail (con la quale ti sei iscritto) chiedendo di venire aggiunto, in uno dei modi seguenti:
+- ***Come faccio a ottenere l'accesso o a cambiare i miei privilegi?*** Per ottenere l'accesso devi prima di tutto registrarti [al servizio cloud](https://mega.nz/) con un tuo indirizzo e-mail . Successivamente basta compilare il [modulo google dedicato](https://goo.gl/forms/e1q9GhYeqwEh4uNn1), si riceverà una notifica su MEGA una volta aggiunti. 
+
+***Nota:*** Tutte le richieste fatte al di fuori del modulo google verranno ignorate. 
+
+Per cambiare i tuoi permessi comunica la mail (con la quale sei iscritto) motivando perché vuoi maggiori privilegi, in uno dei modi seguenti:
 	1. Mandando una mail all’indirizzo [fiup.unipd@gmail.com](mailto:fiup.unipd@gmail.com)
 	2. Contattando tramite messaggio privato un amministratore
 	3. Postando un commento nel gruppo [Facebook](https://www.facebook.com/groups/fiupd) o [Telegram](t.me/fiupd)
 	4. Via DM su twitter (@fiupd).
 
 	Se non vuoi che la tua mail sia in balia di tutti, evita di postare il tuo indirizzo email nei gruppi ed usa le altre modalità. Gli indirizzi postati nei gruppi, verranno rimossi subito dopo averti dato accesso allo spazio. Se vedi il tuo commento ancora online e sai di aver ottenuto l’accesso, rimuovilo tu stesso.
-	L’accesso alla cartella con il materiale della laurea triennale in automatico garantisce l’accesso anche al materiale della magistrale, e viceversa. Sia in lettura che in scrittura.
+	A meno di esplicita richiesta, l’accesso alla cartella con il materiale della laurea triennale in automatico garantisce l’accesso anche al materiale della magistrale, e viceversa. Sia in lettura che in scrittura.
 	
 - ***Quali sono i privilegi disponibili in MEGA?*** Vi sono 4 livelli di privilegi, ottenibili da chiunque:
 	1. *Accesso completo all’account*: a disposizione dei soli amministratori del gruppo FIUP
@@ -26,14 +30,13 @@
 - ***Voglio caricare un file, come faccio?*** Se sei iscritto, puoi caricare i file tu stesso, da sito web, semplicemente trascinando i file dentro la cartella adatta. Accertati che il file non sia o contenga codice versionabile; in questo caso caricalo sul repository corretto dell'[organizzazione FIUP su GitHub](https://github.com/FIUP/).
 
 - ***Cos'è un file versionabile? Perché deve stare su GitHub? Dove carico cosa?***
-    
-	1. I _file versionabili_ sono file per i quali è interessante tracciarne le modifiche tra una versione e un'altra. I _file binari_ al contrario, sono file per i quali tracciarne le modifiche ha poco senso o potrebbe essere controproducente. 
+    I _file versionabili_ sono file per i quali è interessante tracciarne le modifiche tra una versione e un'altra. I _file binari_ al contrario, sono file per i quali tracciarne le modifiche ha poco senso o potrebbe essere controproducente. 
 	Ad es. un file sorgente con estensione `.cpp`, è versionabile, in quanto è utile tracciare le modifiche che i vari utenti apportano. Al contrario un file  `.pdf` non verrà modificato e potrebbe appesantire i repository.
 
 - ***Son stato aggiunto/a ma non riesco ad accedere o a vedere la cartella.*** 
 	Segui i seguenti passi:
 	1. Fai un logout da MEGA.
-	2. Pulisci la cache del browser (manualmente tramite Menu
+	2. Pulisci la cache del browser (manualmente tramite Menù
 		(Settings - More tools - Clear Browsing data (in Chrome) o 
 		Firefox - Preferences - Advanced Network in Firefox ) o tramite un apposito software di pulizia.
 	3. Puoi pulire la cache usando le seguenti scorciatoie: cmd + shift + del (su mac) o ctrl + shift + del (windows/linux).
@@ -50,7 +53,7 @@
 		* [Per Linux](https://www.chimerarevo.com/linux/ubuntu-come-impostare-o-cambiare-i-dns-19494/)
 		* [Per Internet Key](https://just-share-it.blogspot.it/2008/12/come-modificare-i-dns-della-vodafane.html)
 	
-- ***OK accedo al sito ma dov’è il materiale?*** Click sulla cartella con gli omini, sotto l'icona con la nuvola in alto a sinistra.
+- ***OK accedo al sito ma dov’è il materiale?*** Click sulla cartella con la freccetta, sotto l'icona con la nuvola in alto a sinistra.
 
 - ***Ho trovato un doppione, cosa devo fare?*** Se hai i privilegi in full access puoi eliminarlo tu stesso tenendo la versione più recente, altrimenti contatta un amministratore.
 
@@ -67,11 +70,11 @@ A tutti capita di sbagliare, se ti accorgi dell'errore segnalalo alla mail del g
 
     Non è possibile scaricare o caricare materiale coperto da diritto d’autore (copyright) per due motivi:
 
-    	1. E’ illegale e si può incorrere in sanzioni penali
-	    2. E’ contro i termini di utilizzo del servizio, quindi ogni file che violi i termini di servizio verrà eliminato dal gestore dello spazio cloud
+* E’ illegale e si può incorrere in sanzioni penali
+* E’ contro i termini di utilizzo del servizio, quindi ogni file che violi i termini di servizio verrà eliminato dal gestore dello spazio cloud
 
 	Nel caso qualcuno caricasse file in contrasto con i termini di servizio del sito usato come riferimento o con la normativa in merito della tutela del diritto d’autore se ne assume la responsabilità. Il gruppo FIUP, chi detiene i privilegi in Full Access, chi amministra l’account ed eventuali altri utenti diversi all'uploader non sono responsabili e non devono essere ritenuti tali a causa di chi usa il servizio in modo scorretto.
-	Se sei sicuro/a di poter caricare un pdf, un testo o altro materiale fallo liberamente, se hai dubbi, prima di procedere, contatta un amministratore. In ogni caso non caricare materiale protetto da diritto d’autore, a meno che non sia tu stesso ad averne i diritti.
+	Se sei sicuro/a di poter caricare un PDF, un testo o altro materiale fallo liberamente, se hai dubbi, prima di procedere, contatta un amministratore. In ogni caso non caricare materiale protetto da diritto d’autore, a meno che non sia tu stesso ad averne i diritti.
 	
 - ***Quali licenze usiamo? E’ possibile caricare materiale usando licenze differenti?*** Certo, è possibile, è tutto spiegato in dettaglio nel nostro file CONTRIBUTING nella sezione [Licenze usate](https://github.com/FIUP/Getting_Started/blob/master/CONTRIBUTING.md#licenze-usate).
 
