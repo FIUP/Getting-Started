@@ -114,7 +114,7 @@ Ci trovate su:
 - [Commercio Libri](https://telegram.me/FIUPBooks)
 - Gruppi dedicati ai singoli corsi
   - [Analisi Matematica](https://t.me/joinchat/Afev3UAWaW0EpaabbOz4yQ)
-  - [Programmazione](https://t.me/joinchat/CNmpL0LJL5CyHxOox9AZdw)
+  - [Programmazione](https://t.me/fiup_p1)
   - [Algoritmi e Strutture Dati](https://t.me/fiup_asd)
   - [Automi e Linguaggi Formali](https://t.me/joinchat/CCc5rEL9aeOT2jjcWpAv1w)
   - [Basi di Dati](https://t.me/basiunipd)
